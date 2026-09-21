@@ -1,0 +1,535 @@
+
+			
+<table border='1' width='100%' cellspacing='0' cellpadding='0' ID='Table3'>
+<tr>
+<center><h3>Financial Performance Under MGNREGA during the Financial Year 2023-2024   </h3></center>
+</tr>
+<tr>
+<td colspan='23' bgcolor='#00CCFF'><font  size='2'><b>State:TRIPURA</b></font></td>
+<td colspan='7' bgcolor='#00CCFF'> <font  size='2'><b>(Rs. in Lakhs)</b></font></td>
+</tr>
+<tr>
+<td rowspan='3' align='center'><font   size='1'>S.No</font></td>
+<td rowspan='3' align='center'><font   size='1'>District</font></td>
+<td colspan='2' align='center'><font   size='1'>Opening Balance(OB)</font></td>
+<td colspan='2' align='center'><font   size='1'>Release of<br>Last FY but<br>Received<br>during the <br>Current FY</font></td>
+<td  rowspan='3' align='left'><font   size='1'>Release from<br>State Fund<font color='#666666' size='2'>(*)</font> to<br>districts</font></td>
+<td rowspan='3' align='center'><font   size='1'>Authorisation <br>of <br>EFMS</font></td>
+<td rowspan='3' align='center'><font   size='1'>Misc Reciept</font></td>
+<td rowspan='3' align='center'><font   size='1'>Total Availabilty</font></td>
+<td colspan='8' align='center'><font   size='1'>Cumulative Expenditure</font></td>
+<td rowspan='3' align='center'><font   size='1'>%age Utilization</font></td>
+<td rowspan='3' align='center'><font   size='1'>Balance</font></td>
+<td colspan='5' align='center'><font   size='1' color='808000'><strong>Payment due</strong></font><font color='#666666'>**</font></td>
+</tr>
+<tr>
+<td rowspan='2' align='center'><font   size='1'></font></td>
+<td rowspan='2' align='center'><font   size='1'>Entered OB </font></td>
+<td rowspan='2' align='center'><font   size='1'>Centre</font></td>
+<td rowspan='2' align='center'><font   size='1'>State </font></td>
+<td colspan='4' align='center' bgcolor='#FFCC99'><font   size='1' >Actual Expenditure</font></td>
+<td colspan='3' align='center' ><font   size='1' >Adm.Exp </font></td>
+<td rowspan='2' align='center' ><font   size='1' >Total</font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Unskilled Wage </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Semi-skilled and Skilled Wage </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Material</font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >Tax </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >Total</font></td>
+</tr>
+<tr>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Unskilled Wage </font></td>
+<td align='center' bgcolor='#FFCC99'><font   size='1'>Semi-skilled and Skilled Wage</font></td>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Material </font></td>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Tax  </font></td>
+<td align='center' ><font size='1' >Rec Exp</font></td>
+<td align='center' ><font size='1' >Non-Rec Exp  </font></td>
+<td align='center'><font size='1' >Total Adm. Exp  </font></td>
+</tr>
+<td align='center'><font size='1'>1</font></td>
+<td align='center'><font size='1'>2</font></td>
+<td align='center'><font size='1'></font></td>
+<td align='center'><font size='1'>4</font></td>
+<td align='center'><font size='1'>5</font></td>
+<td align='center'><font size='1'>6</font></td>
+<td align='center'><font size='1'>7</font></td>
+<td align='center'><font size='1'>8</font></td>
+<td align='center'><font size='1'>9</font></td>
+<td align='center'><font size='1'>14=(4+5+6+7+8+9+10+13)-(11+12)</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>16</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>17</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>18</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>19</font></td>
+<td align='center' ><font size='1'>20</font></td>
+<td align='center' ><font size='1'>21</font></td>
+<td align='center' ><font size='1'>22=20+21</font></td>
+<td align='center' ><font size='1'>23=16+17+18+19+22</font></td>
+<td align='center'><font size='1'>24=(23/14)*100</font></td>
+<td align='center'><font size='1'>25=14-23</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>26</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>27</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>28</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>29</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>30=26+27+28+29</font></td>
+</tr>
+<tr><td colspan='29'>Phase I</td>
+<tr>
+<td align=right ><font size='1'>1</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3004&fin_year=2023-2024&district_name=DHALAI&state_name=TRIPURA&Digest=E7mLN+o34dg56WAjt2Dv3g'>DHALAI</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3004&fin_year=2023-2024&district_name=DHALAI&state_name=TRIPURA&Digest=7OWSLjcT2TYVBYPXnTMvcA'>-50.78</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3004&fin_year=2023-2024&district_name=DHALAI&state_name=TRIPURA&Digest=SUhQ/8Qi4GhNnc4ITnQ8Cw'>0<a></font></td>
+<td align='right'><font size='1'>22080.94</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>22030.16</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3004&fin_year=2023-2024&district_name=DHALAI&state_name=TRIPURA&type=uskd&Digest=HnKMZATETCaS3TBHxS82Gg'>15171.71</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3004&fin_year=2023-2024&district_name=DHALAI&state_name=TRIPURA&type=skd&Digest=daAnpfA6vemNx93V6/7Unw'>228.83</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3004&fin_year=2023-2024&district_name=DHALAI&state_name=TRIPURA&type=matd&Digest=/vuGgMvgUAC0PjSWzfHhXw'>6034.9</a></font></td>
+<td align=right ><font size='1'>0.13</font></td>
+<td align=right ><font size='1'>626.01</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3004&fin_year=2023-2024&district_name=DHALAI&state_name=TRIPURA&Digest=qFxdOVJdQpDfzyg1o9hOdQ'>626.01</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3004&fin_year=2023-2024&district_name=DHALAI&state_name=TRIPURA&Digest=qFxdOVJdQpDfzyg1o9hOdQ'>22061.58</a></font></td>
+<td align=right ><font size='1'>100.14</font></td>
+<td align=right ><font size='1'>-31.42</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.22</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.22</font></td>
+</tr>
+<tr style='background-color:#FFFF66'>
+<td colspan='2'><font size='1' >PhaseI Total</font></td>
+<td align=right><font size='1'></font></td>
+<td align=right ><font size='1'>-50.78</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>22080.94</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>22030.16</font></td>
+<td align=right><font size='1'>15171.71</font></td>
+<td align=right><font size='1'>228.83</font></td>
+<td align=right><font size='1'>6034.9</font></td>
+<td align=right ><font size='1'>0.13</font></td>
+<td align=right ><font size='1'>626.01</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>626.01</font></td>
+<td align=right ><font size='1'>22061.58</font></td>
+<td align=right ><font size='1'>100.14</font></td>
+<td align=right ><font size='1'>-31.42</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0.22</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>0.22</font></td>
+</tr>
+<tr><td colspan='29' >Phase II</td></tr>
+<tr>
+<td align=right ><font size='1'>2</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3002&fin_year=2023-2024&district_name=SOUTH+TRIPURA&state_name=TRIPURA&Digest=uvvxFcAmuWoZainYiGGZGg'>SOUTH TRIPURA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3002&fin_year=2023-2024&district_name=SOUTH+TRIPURA&state_name=TRIPURA&Digest=wV7mpW8dHA/n2OHqWxFGng'>-36.16</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3002&fin_year=2023-2024&district_name=SOUTH+TRIPURA&state_name=TRIPURA&Digest=DdYkMVBYQdF/+skvCs6dwQ'>0<a></font></td>
+<td align='right'><font size='1'>14680.34</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>14644.17</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3002&fin_year=2023-2024&district_name=SOUTH+TRIPURA&state_name=TRIPURA&type=uskd&Digest=QPp8psFAyiumlVlXs/C2xg'>9753.26</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3002&fin_year=2023-2024&district_name=SOUTH+TRIPURA&state_name=TRIPURA&type=skd&Digest=EtAUid3LX2UTYUYJiMF7TA'>190.98</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3002&fin_year=2023-2024&district_name=SOUTH+TRIPURA&state_name=TRIPURA&type=matd&Digest=OTFldt27Yxv5nvy2lZOksQ'>3857.4</a></font></td>
+<td align=right ><font size='1'>0.24</font></td>
+<td align=right ><font size='1'>859.39</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3002&fin_year=2023-2024&district_name=SOUTH+TRIPURA&state_name=TRIPURA&Digest=6EeiBlFUwNFShnDN3F4QEQ'>859.39</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3002&fin_year=2023-2024&district_name=SOUTH+TRIPURA&state_name=TRIPURA&Digest=6EeiBlFUwNFShnDN3F4QEQ'>14661.25</a></font></td>
+<td align=right ><font size='1'>100.12</font></td>
+<td align=right ><font size='1'>-17.08</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.21</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.02</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.23</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.46</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>3</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3001&fin_year=2023-2024&district_name=WEST+TRIPURA&state_name=TRIPURA&Digest=VpUjexAizxd+ZTZu8HFPjw'>WEST TRIPURA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3001&fin_year=2023-2024&district_name=WEST+TRIPURA&state_name=TRIPURA&Digest=b8emxesUVectbYrQ6789JA'>-0.01</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3001&fin_year=2023-2024&district_name=WEST+TRIPURA&state_name=TRIPURA&Digest=ZInltcvJDWpsSFmTG91xqA'>0<a></font></td>
+<td align='right'><font size='1'>11539.17</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>11539.16</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3001&fin_year=2023-2024&district_name=WEST+TRIPURA&state_name=TRIPURA&type=uskd&Digest=MlXLiBX5JAgIexHSuXvwOw'>7770.48</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3001&fin_year=2023-2024&district_name=WEST+TRIPURA&state_name=TRIPURA&type=skd&Digest=CQoBV9jC4omu+I+2V92HBQ'>232.27</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3001&fin_year=2023-2024&district_name=WEST+TRIPURA&state_name=TRIPURA&type=matd&Digest=yk0z5Zq7fHOVFLYw327SqQ'>2752.69</a></font></td>
+<td align=right ><font size='1'>6.55</font></td>
+<td align=right ><font size='1'>735.15</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3001&fin_year=2023-2024&district_name=WEST+TRIPURA&state_name=TRIPURA&Digest=idpEB0mSsoEvHCBB2ajeUg'>735.15</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3001&fin_year=2023-2024&district_name=WEST+TRIPURA&state_name=TRIPURA&Digest=idpEB0mSsoEvHCBB2ajeUg'>11497.14</a></font></td>
+<td align=right ><font size='1'>99.64</font></td>
+<td align=right ><font size='1'>42.02</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.02</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.72</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.01</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.75</font></td>
+</tr>
+<tr style='background-color:#FFCC66'>
+<td colspan='2'><font size='1' >PhaseII Total</font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>-36.18</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>26219.51</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>26183.33</font></td>
+<td align=right><font size='1'>17523.73</font></td>
+<td align=right><font size='1'>423.24</font></td>
+<td align=right><font size='1'>6610.09</font></td>
+<td align=right><font size='1'>6.79</font></td>
+<td align=right ><font size='1'>1594.53</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>1594.53</font></td>
+<td align=right ><font size='1'>26158.39</font></td>
+<td align=right ><font size='1'>99.9</font></td>
+<td align=right ><font size='1'>24.94</font></td>
+<td align=right><font size='1'>0.23</font></td>
+<td align=right><font size='1'>0.02</font></td>
+<td align=right><font size='1'>0.95</font></td>
+<td align=right><font size='1'>0.01</font></td>
+<td align=right><font size='1'>1.21</font></td>
+</tr>
+<tr><td  colspan='29'>Phase III</td></tr>
+<tr>
+<td align=right ><font size='1'>4</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3008&fin_year=2023-2024&district_name=Gomati&state_name=TRIPURA&Digest=A8N3wqlWQ5HX9PeGm7mT5A'>Gomati</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3008&fin_year=2023-2024&district_name=Gomati&state_name=TRIPURA&Digest=w6Nb9nDW6WoKnPoAMrwzBA'>-51.45</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3008&fin_year=2023-2024&district_name=Gomati&state_name=TRIPURA&Digest=5vu6DdvpO+vxj/fm7/a/HQ'>0<a></font></td>
+<td align='right'><font size='1'>16423.7</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>16372.24</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3008&fin_year=2023-2024&district_name=Gomati&state_name=TRIPURA&type=uskd&Digest=g+c4kN4D4FAQfvzOVsJzLA'>11466.3</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3008&fin_year=2023-2024&district_name=Gomati&state_name=TRIPURA&type=skd&Digest=d1Ey7qe6F/Fg6+5LIzK9Ew'>217.9</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3008&fin_year=2023-2024&district_name=Gomati&state_name=TRIPURA&type=matd&Digest=l8460ROEQ8kaqdUw1wJboQ'>3885.46</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>818.49</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3008&fin_year=2023-2024&district_name=Gomati&state_name=TRIPURA&Digest=KPupoXRQOnUCLEUMOemt0w'>818.49</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3008&fin_year=2023-2024&district_name=Gomati&state_name=TRIPURA&Digest=KPupoXRQOnUCLEUMOemt0w'>16388.15</a></font></td>
+<td align=right ><font size='1'>100.1</font></td>
+<td align=right ><font size='1'>-15.9</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.03</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.02</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.05</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>5</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3006&fin_year=2023-2024&district_name=Khowai&state_name=TRIPURA&Digest=KPrrQFNbCdaCyj9fikiPzg'>Khowai</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3006&fin_year=2023-2024&district_name=Khowai&state_name=TRIPURA&Digest=M0dAdudO0WT5YQdY+luGEQ'>-52.09</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3006&fin_year=2023-2024&district_name=Khowai&state_name=TRIPURA&Digest=gylcCEuGgSdo9Evi5dkQtQ'>0<a></font></td>
+<td align='right'><font size='1'>13197.81</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>13145.72</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3006&fin_year=2023-2024&district_name=Khowai&state_name=TRIPURA&type=uskd&Digest=vPVgahY9SaE+eeATkrVHpg'>9299.87</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3006&fin_year=2023-2024&district_name=Khowai&state_name=TRIPURA&type=skd&Digest=1sF9TmJO5zTvJjx2/pwCrg'>203.69</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3006&fin_year=2023-2024&district_name=Khowai&state_name=TRIPURA&type=matd&Digest=6CcAxh70PF7oQbyOl1vMtQ'>3112.33</a></font></td>
+<td align=right ><font size='1'>14.81</font></td>
+<td align=right ><font size='1'>581.49</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3006&fin_year=2023-2024&district_name=Khowai&state_name=TRIPURA&Digest=tCsWgkpmVYtEZTitS34ctQ'>581.49</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3006&fin_year=2023-2024&district_name=Khowai&state_name=TRIPURA&Digest=tCsWgkpmVYtEZTitS34ctQ'>13212.2</a></font></td>
+<td align=right ><font size='1'>100.51</font></td>
+<td align=right ><font size='1'>-66.48</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.16</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.14</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.01</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.31</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>6</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3003&fin_year=2023-2024&district_name=NORTH+TRIPURA&state_name=TRIPURA&Digest=pJalHSaopkIZs77C1U644Q'>NORTH TRIPURA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3003&fin_year=2023-2024&district_name=NORTH+TRIPURA&state_name=TRIPURA&Digest=WN1EK3/Rx/9NNKnr+tDPjA'>-20.97</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3003&fin_year=2023-2024&district_name=NORTH+TRIPURA&state_name=TRIPURA&Digest=FhKbSHOnLifJfJLBYOawyw'>0<a></font></td>
+<td align='right'><font size='1'>12792.12</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>12771.15</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3003&fin_year=2023-2024&district_name=NORTH+TRIPURA&state_name=TRIPURA&type=uskd&Digest=PKEGlodR6KR8TDQzq2q9Sg'>8359.53</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3003&fin_year=2023-2024&district_name=NORTH+TRIPURA&state_name=TRIPURA&type=skd&Digest=EsJQTOjb7jUSIbiH17cECw'>176.5</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3003&fin_year=2023-2024&district_name=NORTH+TRIPURA&state_name=TRIPURA&type=matd&Digest=rVP1e/8IiBFjpsPqUSrm8Q'>3661.19</a></font></td>
+<td align=right ><font size='1'>2.78</font></td>
+<td align=right ><font size='1'>578.74</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3003&fin_year=2023-2024&district_name=NORTH+TRIPURA&state_name=TRIPURA&Digest=Pl90oG0Oh0uqleZlgSGeJw'>578.74</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3003&fin_year=2023-2024&district_name=NORTH+TRIPURA&state_name=TRIPURA&Digest=Pl90oG0Oh0uqleZlgSGeJw'>12778.74</a></font></td>
+<td align=right ><font size='1'>100.06</font></td>
+<td align=right ><font size='1'>-7.59</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.11</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.06</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.53</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.7</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>7</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3007&fin_year=2023-2024&district_name=Sepahijala&state_name=TRIPURA&Digest=87E6dZZ0DPXCC6muuyWjVg'>Sepahijala</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3007&fin_year=2023-2024&district_name=Sepahijala&state_name=TRIPURA&Digest=kvuT3GV89LUByscFngbrfA'>115.62</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3007&fin_year=2023-2024&district_name=Sepahijala&state_name=TRIPURA&Digest=trbQB0kT3JiW2PVVDAAYmQ'>0<a></font></td>
+<td align='right'><font size='1'>13521.78</font></td>
+<td align=right ><font size='1'>0.04</font></td>
+<td align=right><font size='1'>13637.44</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3007&fin_year=2023-2024&district_name=Sepahijala&state_name=TRIPURA&type=uskd&Digest=joN/3YDOFokJ6XdgypCuXQ'>8672.16</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3007&fin_year=2023-2024&district_name=Sepahijala&state_name=TRIPURA&type=skd&Digest=/Vhbmz3GTWSrIT0plqlMug'>211.67</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3007&fin_year=2023-2024&district_name=Sepahijala&state_name=TRIPURA&type=matd&Digest=hqKNoVO58cUubjwU3T9mQg'>3815.47</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>809.31</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3007&fin_year=2023-2024&district_name=Sepahijala&state_name=TRIPURA&Digest=GDo+KDmSDi6QuuZBvq2LWg'>809.31</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3007&fin_year=2023-2024&district_name=Sepahijala&state_name=TRIPURA&Digest=GDo+KDmSDi6QuuZBvq2LWg'>13508.6</a></font></td>
+<td align=right ><font size='1'>99.06</font></td>
+<td align=right ><font size='1'>128.84</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.09</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.11</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.2</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>8</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3005&fin_year=2023-2024&district_name=Unakoti&state_name=TRIPURA&Digest=jbucXTqWx8HDF/Kz0Atfqg'>Unakoti</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3005&fin_year=2023-2024&district_name=Unakoti&state_name=TRIPURA&Digest=zEoDqw7q7ijFmWjvf4PmZA'>-7.6</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3005&fin_year=2023-2024&district_name=Unakoti&state_name=TRIPURA&Digest=yZwSemqEMS+KscpVBiVoSg'>0<a></font></td>
+<td align='right'><font size='1'>8606.48</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>8598.88</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3005&fin_year=2023-2024&district_name=Unakoti&state_name=TRIPURA&type=uskd&Digest=ynDFql/bPBn2bz2HPA7RtA'>6214.51</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3005&fin_year=2023-2024&district_name=Unakoti&state_name=TRIPURA&type=skd&Digest=WdclnzfbjxnrBPlUbElOVQ'>94.22</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3005&fin_year=2023-2024&district_name=Unakoti&state_name=TRIPURA&type=matd&Digest=h11lGLe/l/XzkczCdJFD9A'>1841.32</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>447.99</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3005&fin_year=2023-2024&district_name=Unakoti&state_name=TRIPURA&Digest=wa7Q3uYHkto/7kqwlIG8Hw'>447.99</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3005&fin_year=2023-2024&district_name=Unakoti&state_name=TRIPURA&Digest=wa7Q3uYHkto/7kqwlIG8Hw'>8598.04</a></font></td>
+<td align=right ><font size='1'>99.99</font></td>
+<td align=right ><font size='1'>0.84</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.64</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.14</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.78</font></td>
+</tr>
+<tr style='background-color:#FF6699'>
+<td colspan='2'><font size='1' >PhaseIII Total</font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>-16.5</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>64541.89</font></td>
+<td align=right ><font size='1'>0.04</font></td>
+<td align=right><font size='1'>64525.43</font></td>
+<td align=right ><font size='1'>44012.37</font></td>
+<td align=right ><font size='1'>903.98</font></td>
+<td align=right ><font size='1'>16315.77</font></td>
+<td align=right ><font size='1'>17.59</font></td>
+<td align=right ><font size='1'>3236.02</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>3236.02</font></td>
+<td align=right ><font size='1'>64485.73</font></td>
+<td align=right ><font size='1'>99.94</font></td>
+<td align=right ><font size='1'>39.71</font></td>
+<td align=right ><font size='1'>2.03</font></td>
+<td align=right ><font size='1'>0.06</font></td>
+<td align=right ><font size='1'>1.94</font></td>
+<td align=right ><font size='1'>0.01</font></td>
+<td align=right ><font size='1'>4.04</font></td>
+</tr>
+<td  colspan='2' ><font size='1'>All District Total </font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>-103.45</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>112842.32</font></td>
+<td align=right ><font size='1'>0.04</font></td>
+<td align=right><font size='1'>112738.91</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >76707.81</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >1556.06</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >28960.76</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>24.5</font></td>
+<td align=right ><font size='1' >5456.56</font></td>
+<td align=right ><font size='1' >0</font></td>
+<td align=right ><font size='1' >5456.56</font></td>
+<td align=right ><font size='1' >112705.69</font></td>
+<td align=right ><font size='1'>99.97</font></td>
+<td align=right ><font size='1'>33.23</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1' >2.26</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1' >0.08</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>3.11</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.01</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>5.46</font></td>
+</tr>
+<tr style='background-color:#B1E399'><td  colspan='2' ><font size='1'>  State Fund </font></td>
+<td align=right><font size='1'></font></td>
+<td align=right><font size='1'>4919.58</font></td>
+<td align=right colspan='2'><font size='1'>0</font></td>
+<td align=right><font size='1'> </font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align=right ><font size='1'>150</font></td>
+<td align=right ><font size='1'>-149500.74</font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'>59.3</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>59.3</font></td>
+<td align=right ><font size='1'>59.3</font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'>-149560.04</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+</tr>
+<tr style='background-color:#B1E399'><td  colspan='2' ><font size='1'>  Grand Total of State </font></td>
+<td align=right><font size='1'></font></td>
+<td align=right><font size='1'>4816.13</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>112842.32</font></td>
+<td align=right ><font size='1'>150.04</font></td>
+<td align=right ><font size='1'>-36761.83</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>76707.81</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>1556.06</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>28960.76</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>24.5</font></td>
+<td align=right ><font size='1'>5515.86</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>5515.86</font></td>
+<td align=right ><font size='1'>112764.99</font></td>
+<td align=right ><font size='1'>-306.58</font></td>
+<td align=right ><font size='1'>-149526.81</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2.26</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.08</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>3.11</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.01</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>5.46</font></td>
+</tr>
+</table>
+</center>
+<b><font color='Silver' >*</font><font size='1'>Status of State Fund:</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> OB of State Fund= 4919.58277</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> OB of State Fund= 4919.58277</font></b><br><b><font color='Silver' >•</font><font size='1'> Releases by Centre to State Fund in current FY= 105311.155134</b></font><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Releases by State as State share against centre release in the current FY= 4058.73</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Misc (if any)= 150</font></b><br>
+                      
+<b><font color='Silver' >•</font> <font size='1'>Total Availability at State Fund= 114439.467904</font></b><br>
+                      
+<b><font color='Silver' >•</font> <font size='1'>Refund From SEGF= 0</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Balance of State Fund= -149560.04</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Fund in Transit=Rs. 0</font></b><br>
+<font size='1'>Note: </font><br>
+<i><font size='1'><b>These Figures are Cumulatively Display.</font></i></b><br>
+<b><font size='1'>Col 3: OB=CB of last FY as per MIS</font></b><br>
+<b><font size='1'>Col 4: OB=OB entered manually in the MIS</font></b><br>
+<font color='#DC143C' size='2'><b>**<i> Payment due means MR,Bills/Vouchers that have been entered but payment date has not been entered in the MIS.</i></font></b><br>
+<center>
+Report Completed
+</br>
+					
+</center>
+</body>
+</html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Untitled Page
+</title></head>
+<body>
+    <form name="form1" method="post" action="./excelview.aspx?lflag=eng&amp;fn=E%3a%5cNrega%5cNetnrega%5cwritereaddata%2fcitizen_out%2ffundstreportMtemp_Out30_2324_.html&amp;Digest=%2fqR2sY2uKBsB7ab9Jjyp3Q" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Twu/uiAFObWNRtzKq9wuO56SONDdOJLGBiFH51+uM3EhKFY2NSLGMT2+RzTv8ZAAhUMF3gAS9NQFOTBOFs5dm0hMt4DyukUGXxX310qDN9k=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Netnrega/WebResource.axd?d=OPxivriMJYeEjlxmISWZHc6x3ZOduh_4HYFeOmvGuzi1hI6Xp7XRUTkZqC7FgyA-1o-7eJGEiic6jxz1mzu9fsbJcEhhT6ahWFQejVUFUmU1&amp;t=638901734248157332" type="text/javascript"></script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="01123B89" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <div>
+    
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>

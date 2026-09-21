@@ -1,0 +1,940 @@
+
+			
+<table border='1' width='100%' cellspacing='0' cellpadding='0' ID='Table3'>
+<tr>
+<center><h3>Financial Performance Under MGNREGA during the Financial Year 2025-2026   </h3></center>
+</tr>
+<tr>
+<td colspan='23' bgcolor='#00CCFF'><font  size='2'><b>State:PUNJAB</b></font></td>
+<td colspan='7' bgcolor='#00CCFF'> <font  size='2'><b>(Rs. in Lakhs)</b></font></td>
+</tr>
+<tr>
+<td rowspan='3' align='center'><font   size='1'>S.No</font></td>
+<td rowspan='3' align='center'><font   size='1'>District</font></td>
+<td colspan='2' align='center'><font   size='1'>Opening Balance(OB)</font></td>
+<td colspan='2' align='center'><font   size='1'>Release of<br>Last FY but<br>Received<br>during the <br>Current FY</font></td>
+<td  rowspan='3' align='left'><font   size='1'>Release from<br>State Fund<font color='#666666' size='2'>(*)</font> to<br>districts</font></td>
+<td rowspan='3' align='center'><font   size='1'>Authorisation <br>of <br>EFMS</font></td>
+<td rowspan='3' align='center'><font   size='1'>Misc Reciept</font></td>
+<td rowspan='3' align='center'><font   size='1'>Total Availabilty</font></td>
+<td colspan='8' align='center'><font   size='1'>Cumulative Expenditure</font></td>
+<td rowspan='3' align='center'><font   size='1'>%age Utilization</font></td>
+<td rowspan='3' align='center'><font   size='1'>Balance</font></td>
+<td colspan='5' align='center'><font   size='1' color='808000'><strong>Payment due</strong></font><font color='#666666'>**</font></td>
+</tr>
+<tr>
+<td rowspan='2' align='center'><font   size='1'></font></td>
+<td rowspan='2' align='center'><font   size='1'>Entered OB </font></td>
+<td rowspan='2' align='center'><font   size='1'>Centre</font></td>
+<td rowspan='2' align='center'><font   size='1'>State </font></td>
+<td colspan='4' align='center' bgcolor='#FFCC99'><font   size='1' >Actual Expenditure</font></td>
+<td colspan='3' align='center' ><font   size='1' >Adm.Exp </font></td>
+<td rowspan='2' align='center' ><font   size='1' >Total</font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Unskilled Wage </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Semi-skilled and Skilled Wage </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Material</font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >Tax </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >Total</font></td>
+</tr>
+<tr>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Unskilled Wage </font></td>
+<td align='center' bgcolor='#FFCC99'><font   size='1'>Semi-skilled and Skilled Wage</font></td>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Material </font></td>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Tax  </font></td>
+<td align='center' ><font size='1' >Rec Exp</font></td>
+<td align='center' ><font size='1' >Non-Rec Exp  </font></td>
+<td align='center'><font size='1' >Total Adm. Exp  </font></td>
+</tr>
+<td align='center'><font size='1'>1</font></td>
+<td align='center'><font size='1'>2</font></td>
+<td align='center'><font size='1'></font></td>
+<td align='center'><font size='1'>4</font></td>
+<td align='center'><font size='1'>5</font></td>
+<td align='center'><font size='1'>6</font></td>
+<td align='center'><font size='1'>7</font></td>
+<td align='center'><font size='1'>8</font></td>
+<td align='center'><font size='1'>9</font></td>
+<td align='center'><font size='1'>14=(4+5+6+7+8+9+10+13)-(11+12)</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>16</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>17</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>18</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>19</font></td>
+<td align='center' ><font size='1'>20</font></td>
+<td align='center' ><font size='1'>21</font></td>
+<td align='center' ><font size='1'>22=20+21</font></td>
+<td align='center' ><font size='1'>23=16+17+18+19+22</font></td>
+<td align='center'><font size='1'>24=(23/14)*100</font></td>
+<td align='center'><font size='1'>25=14-23</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>26</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>27</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>28</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>29</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>30=26+27+28+29</font></td>
+</tr>
+<tr><td colspan='29'>Phase I</td>
+<tr>
+<td align=right ><font size='1'>1</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2607&fin_year=2025-2026&district_name=HOSHIARPUR&state_name=PUNJAB&Digest=dINfj8Dxg9I9wvvBK3pktA'>HOSHIARPUR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2607&fin_year=2025-2026&district_name=HOSHIARPUR&state_name=PUNJAB&Digest=CDZJRoMQEC0iFWUXU2ITZA'>18.03</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2607&fin_year=2025-2026&district_name=HOSHIARPUR&state_name=PUNJAB&Digest=0OQid90IAiIKQC1ogzDVDA'>0<a></font></td>
+<td align='right'><font size='1'>6245.65</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>6263.68</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2607&fin_year=2025-2026&district_name=HOSHIARPUR&state_name=PUNJAB&type=uskd&Digest=4qm4kLMVXuKbbRjRszNBXg'>5045.63</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2607&fin_year=2025-2026&district_name=HOSHIARPUR&state_name=PUNJAB&type=skd&Digest=cYpInSPl5UeOF4NbcobX0A'>42.14</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2607&fin_year=2025-2026&district_name=HOSHIARPUR&state_name=PUNJAB&type=matd&Digest=2KHu3HZJSb0w7POFfGJ5uQ'>820.45</a></font></td>
+<td align=right ><font size='1'>77.44</font></td>
+<td align=right ><font size='1'>242.53</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2607&fin_year=2025-2026&district_name=HOSHIARPUR&state_name=PUNJAB&Digest=jeep9RGPR1SU0XvQZWpcPg'>242.53</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2607&fin_year=2025-2026&district_name=HOSHIARPUR&state_name=PUNJAB&Digest=jeep9RGPR1SU0XvQZWpcPg'>6228.19</a></font></td>
+<td align=right ><font size='1'>99.43</font></td>
+<td align=right ><font size='1'>35.49</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>16.44</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>26.99</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1927.59</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>124.04</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2095.06</font></td>
+</tr>
+<tr style='background-color:#FFFF66'>
+<td colspan='2'><font size='1' >PhaseI Total</font></td>
+<td align=right><font size='1'></font></td>
+<td align=right ><font size='1'>18.03</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>6245.65</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>6263.68</font></td>
+<td align=right><font size='1'>5045.63</font></td>
+<td align=right><font size='1'>42.14</font></td>
+<td align=right><font size='1'>820.45</font></td>
+<td align=right ><font size='1'>77.44</font></td>
+<td align=right ><font size='1'>242.53</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>242.53</font></td>
+<td align=right ><font size='1'>6228.19</font></td>
+<td align=right ><font size='1'>99.43</font></td>
+<td align=right ><font size='1'>35.49</font></td>
+<td align=right><font size='1'>16.44</font></td>
+<td align=right><font size='1'>26.99</font></td>
+<td align=right><font size='1'>1927.59</font></td>
+<td align=right ><font size='1'>124.04</font></td>
+<td align=right><font size='1'>2095.06</font></td>
+</tr>
+<tr><td colspan='29' >Phase II</td></tr>
+<tr>
+<td align=right ><font size='1'>2</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2602&fin_year=2025-2026&district_name=AMRITSAR&state_name=PUNJAB&Digest=cXSPdJFHyp73Jb6ZakdENQ'>AMRITSAR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2602&fin_year=2025-2026&district_name=AMRITSAR&state_name=PUNJAB&Digest=6gnDXCePXKcUjXvsP/ASQg'>111.84</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2602&fin_year=2025-2026&district_name=AMRITSAR&state_name=PUNJAB&Digest=L1uPBGqbuFWrcTZ9crvCAw'>0<a></font></td>
+<td align='right'><font size='1'>3687.96</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>3799.8</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2602&fin_year=2025-2026&district_name=AMRITSAR&state_name=PUNJAB&type=uskd&Digest=yN1KVQQFbADqxcTIT8hqvw'>2709.65</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2602&fin_year=2025-2026&district_name=AMRITSAR&state_name=PUNJAB&type=skd&Digest=7eIWXyiOe4HaYmgOXpgI2w'>42.14</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2602&fin_year=2025-2026&district_name=AMRITSAR&state_name=PUNJAB&type=matd&Digest=AplR4/F8PdLJ9cs7mNOYrQ'>615.43</a></font></td>
+<td align=right ><font size='1'>18.83</font></td>
+<td align=right ><font size='1'>286.01</font></td>
+<td align=right ><font size='1'>0.11</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2602&fin_year=2025-2026&district_name=AMRITSAR&state_name=PUNJAB&Digest=eyPuE4QSV0fgaSpUu4M1hw'>286.12</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2602&fin_year=2025-2026&district_name=AMRITSAR&state_name=PUNJAB&Digest=eyPuE4QSV0fgaSpUu4M1hw'>3672.17</a></font></td>
+<td align=right ><font size='1'>96.64</font></td>
+<td align=right ><font size='1'>127.63</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>129.34</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>11.97</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>886.97</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>26.1</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1054.38</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>3</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2605&fin_year=2025-2026&district_name=JALANDHAR&state_name=PUNJAB&Digest=wRgF7GyEQGxTc+rqG11vbA'>JALANDHAR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2605&fin_year=2025-2026&district_name=JALANDHAR&state_name=PUNJAB&Digest=g3N1cIc9RSfgI7UiJfc/JA'>284.76</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2605&fin_year=2025-2026&district_name=JALANDHAR&state_name=PUNJAB&Digest=tOga8co0WVFTJwnZ1U00Lw'>0<a></font></td>
+<td align='right'><font size='1'>3211.03</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>3495.79</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2605&fin_year=2025-2026&district_name=JALANDHAR&state_name=PUNJAB&type=uskd&Digest=uzUi+AP5FJehysGA0wvQaA'>2607.17</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2605&fin_year=2025-2026&district_name=JALANDHAR&state_name=PUNJAB&type=skd&Digest=lnN6a8McF2hM4C22p9Z19A'>15.61</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2605&fin_year=2025-2026&district_name=JALANDHAR&state_name=PUNJAB&type=matd&Digest=1QY/ib7TsTunmMhFmstYJw'>341.78</a></font></td>
+<td align=right ><font size='1'>24.22</font></td>
+<td align=right ><font size='1'>195.5</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2605&fin_year=2025-2026&district_name=JALANDHAR&state_name=PUNJAB&Digest=LztYJcGaf+40Eh/xcs8LCA'>195.5</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2605&fin_year=2025-2026&district_name=JALANDHAR&state_name=PUNJAB&Digest=LztYJcGaf+40Eh/xcs8LCA'>3184.28</a></font></td>
+<td align=right ><font size='1'>91.09</font></td>
+<td align=right ><font size='1'>311.51</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>15.28</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>3.13</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>323.81</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>30.01</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>372.23</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>4</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2614&fin_year=2025-2026&district_name=NAWANSHAHR+&state_name=PUNJAB&Digest=K/bVac4Q8vIw3C05GVbsYw'>NAWANSHAHR </a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2614&fin_year=2025-2026&district_name=NAWANSHAHR+&state_name=PUNJAB&Digest=Io1UDxYjwJxZJLFqcrzB7Q'>-2.51</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2614&fin_year=2025-2026&district_name=NAWANSHAHR+&state_name=PUNJAB&Digest=kSa4tnukPQ5Hw7J4edimcA'>0<a></font></td>
+<td align='right'><font size='1'>3482.94</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>3480.43</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2614&fin_year=2025-2026&district_name=NAWANSHAHR+&state_name=PUNJAB&type=uskd&Digest=cnfgMZPMeVvWLlZzelGEFg'>3120.04</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2614&fin_year=2025-2026&district_name=NAWANSHAHR+&state_name=PUNJAB&type=skd&Digest=D0Kyl+3+oYzKQug+2cuAeg'>38.68</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2614&fin_year=2025-2026&district_name=NAWANSHAHR+&state_name=PUNJAB&type=matd&Digest=9W+FyQFVUBWLRfD6MjAjtQ'>121.2</a></font></td>
+<td align=right ><font size='1'>9.01</font></td>
+<td align=right ><font size='1'>154.05</font></td>
+<td align=right ><font size='1'>14.68</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2614&fin_year=2025-2026&district_name=NAWANSHAHR+&state_name=PUNJAB&Digest=hY6BAdA24she8IAilGzw3w'>168.73</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2614&fin_year=2025-2026&district_name=NAWANSHAHR+&state_name=PUNJAB&Digest=hY6BAdA24she8IAilGzw3w'>3457.66</a></font></td>
+<td align=right ><font size='1'>99.35</font></td>
+<td align=right ><font size='1'>22.77</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>15.06</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>10.77</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>748.81</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>56.16</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>830.8</font></td>
+</tr>
+<tr style='background-color:#FFCC66'>
+<td colspan='2'><font size='1' >PhaseII Total</font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>394.1</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>10381.93</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>10776.03</font></td>
+<td align=right><font size='1'>8436.86</font></td>
+<td align=right><font size='1'>96.43</font></td>
+<td align=right><font size='1'>1078.4</font></td>
+<td align=right><font size='1'>52.06</font></td>
+<td align=right ><font size='1'>635.56</font></td>
+<td align=right ><font size='1'>14.79</font></td>
+<td align=right ><font size='1'>650.35</font></td>
+<td align=right ><font size='1'>10314.11</font></td>
+<td align=right ><font size='1'>95.71</font></td>
+<td align=right ><font size='1'>461.91</font></td>
+<td align=right><font size='1'>159.68</font></td>
+<td align=right><font size='1'>25.87</font></td>
+<td align=right><font size='1'>1959.59</font></td>
+<td align=right><font size='1'>112.27</font></td>
+<td align=right><font size='1'>2257.41</font></td>
+</tr>
+<tr><td  colspan='29'>Phase III</td></tr>
+<tr>
+<td align=right ><font size='1'>5</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2621&fin_year=2025-2026&district_name=BARNALA&state_name=PUNJAB&Digest=HP9JuoCWnb0PGq9aTjnjoQ'>BARNALA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2621&fin_year=2025-2026&district_name=BARNALA&state_name=PUNJAB&Digest=nVtGYWCYxOvGjqx6RSHOCQ'>53.3</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2621&fin_year=2025-2026&district_name=BARNALA&state_name=PUNJAB&Digest=6VizMP8lsh6yx+Y+9c84Yw'>0<a></font></td>
+<td align='right'><font size='1'>2425.48</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>2478.78</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2621&fin_year=2025-2026&district_name=BARNALA&state_name=PUNJAB&type=uskd&Digest=smoxSoRSLg46N7x4jizOow'>2101.21</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2621&fin_year=2025-2026&district_name=BARNALA&state_name=PUNJAB&type=skd&Digest=2bBktLhQyXlGLW/gYYkshg'>21.2</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2621&fin_year=2025-2026&district_name=BARNALA&state_name=PUNJAB&type=matd&Digest=kUU28zOCL9YI3yXWZc+7vA'>152.9</a></font></td>
+<td align=right ><font size='1'>8.45</font></td>
+<td align=right ><font size='1'>139</font></td>
+<td align=right ><font size='1'>0.19</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2621&fin_year=2025-2026&district_name=BARNALA&state_name=PUNJAB&Digest=gejIGjigF4u/aRKifbpt0A'>139.19</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2621&fin_year=2025-2026&district_name=BARNALA&state_name=PUNJAB&Digest=gejIGjigF4u/aRKifbpt0A'>2422.94</a></font></td>
+<td align=right ><font size='1'>97.75</font></td>
+<td align=right ><font size='1'>55.85</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>6.69</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>3.43</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>198.77</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>13.36</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>222.25</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>6</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2611&fin_year=2025-2026&district_name=BHATINDA++++++++++++++++++&state_name=PUNJAB&Digest=0wav8Sdyb/W5hucoO5vEXg'>BHATINDA                  </a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2611&fin_year=2025-2026&district_name=BHATINDA++++++++++++++++++&state_name=PUNJAB&Digest=sWrrAU0L7PkFTF2j5e/QGg'>-4.35</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2611&fin_year=2025-2026&district_name=BHATINDA++++++++++++++++++&state_name=PUNJAB&Digest=KJ5OjOkeHlX5ySStSkN8SA'>0<a></font></td>
+<td align='right'><font size='1'>4406.14</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>4401.79</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2611&fin_year=2025-2026&district_name=BHATINDA++++++++++++++++++&state_name=PUNJAB&type=uskd&Digest=FzV0iPf7I3bU09Az4WE5Tw'>3761.39</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2611&fin_year=2025-2026&district_name=BHATINDA++++++++++++++++++&state_name=PUNJAB&type=skd&Digest=ikqfBC/oO59OKjJagToBWg'>64.53</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2611&fin_year=2025-2026&district_name=BHATINDA++++++++++++++++++&state_name=PUNJAB&type=matd&Digest=jhCaza7zrImooyl1cw/GPA'>264.04</a></font></td>
+<td align=right ><font size='1'>20.17</font></td>
+<td align=right ><font size='1'>268.97</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2611&fin_year=2025-2026&district_name=BHATINDA++++++++++++++++++&state_name=PUNJAB&Digest=XO4TQd4QE7gRP9Jo4EyboQ'>268.97</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2611&fin_year=2025-2026&district_name=BHATINDA++++++++++++++++++&state_name=PUNJAB&Digest=XO4TQd4QE7gRP9Jo4EyboQ'>4379.09</a></font></td>
+<td align=right ><font size='1'>99.48</font></td>
+<td align=right ><font size='1'>22.71</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>5.11</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>16.52</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>641.6</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>49.69</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>712.92</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>7</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2612&fin_year=2025-2026&district_name=FARIDKOT&state_name=PUNJAB&Digest=569G6ZeSaL0i6KC62d/vlA'>FARIDKOT</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2612&fin_year=2025-2026&district_name=FARIDKOT&state_name=PUNJAB&Digest=8KWEKZiQCWbSqpikeJO81w'>21.12</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2612&fin_year=2025-2026&district_name=FARIDKOT&state_name=PUNJAB&Digest=5VJUhaX0Nl5yQGGftcZ07g'>0<a></font></td>
+<td align='right'><font size='1'>3256.09</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>3277.21</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2612&fin_year=2025-2026&district_name=FARIDKOT&state_name=PUNJAB&type=uskd&Digest=t78bytlSvcxSsMvMZCi1gA'>2739.67</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2612&fin_year=2025-2026&district_name=FARIDKOT&state_name=PUNJAB&type=skd&Digest=xo9LEX1cwTY+Z4u4kyEYaw'>67.31</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2612&fin_year=2025-2026&district_name=FARIDKOT&state_name=PUNJAB&type=matd&Digest=OmK1B4N3gJqI7aYrWnPwqg'>260.92</a></font></td>
+<td align=right ><font size='1'>30.15</font></td>
+<td align=right ><font size='1'>151.39</font></td>
+<td align=right ><font size='1'>0.16</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2612&fin_year=2025-2026&district_name=FARIDKOT&state_name=PUNJAB&Digest=s5Z8mXe6csD06rUvALiZFA'>151.55</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2612&fin_year=2025-2026&district_name=FARIDKOT&state_name=PUNJAB&Digest=s5Z8mXe6csD06rUvALiZFA'>3249.6</a></font></td>
+<td align=right ><font size='1'>99.16</font></td>
+<td align=right ><font size='1'>27.61</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>6.1</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>16.41</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>783.72</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>75.4</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>881.63</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>8</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2618&fin_year=2025-2026&district_name=FATEHGARH+SAHIB&state_name=PUNJAB&Digest=wPhte3Kq9PbkUw8cULL95A'>FATEHGARH SAHIB</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2618&fin_year=2025-2026&district_name=FATEHGARH+SAHIB&state_name=PUNJAB&Digest=RomcjlbYJxPmmfJKmX64JA'>9.74</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2618&fin_year=2025-2026&district_name=FATEHGARH+SAHIB&state_name=PUNJAB&Digest=3aZkd9bgvI6LD+7IOOH/ng'>0<a></font></td>
+<td align='right'><font size='1'>4875.99</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>4885.73</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2618&fin_year=2025-2026&district_name=FATEHGARH+SAHIB&state_name=PUNJAB&type=uskd&Digest=E+cGVb+nQwnDMLr9sqreBQ'>4511.64</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2618&fin_year=2025-2026&district_name=FATEHGARH+SAHIB&state_name=PUNJAB&type=skd&Digest=HS8dZ6Bd77b+5ayweJOhrQ'>17.42</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2618&fin_year=2025-2026&district_name=FATEHGARH+SAHIB&state_name=PUNJAB&type=matd&Digest=8cWgsKQRDivmUBg+nUdbiw'>102.39</a></font></td>
+<td align=right ><font size='1'>11.51</font></td>
+<td align=right ><font size='1'>209.41</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2618&fin_year=2025-2026&district_name=FATEHGARH+SAHIB&state_name=PUNJAB&Digest=klThWi2XgzD+ANDmJQORtg'>209.41</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2618&fin_year=2025-2026&district_name=FATEHGARH+SAHIB&state_name=PUNJAB&Digest=klThWi2XgzD+ANDmJQORtg'>4852.39</a></font></td>
+<td align=right ><font size='1'>99.32</font></td>
+<td align=right ><font size='1'>33.35</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.53</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>4.4</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>172.63</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>20.12</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>197.68</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>9</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2623&fin_year=2025-2026&district_name=Fazilka&state_name=PUNJAB&Digest=EDgFksmI8T1kmVPS9ElYLg'>Fazilka</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2623&fin_year=2025-2026&district_name=Fazilka&state_name=PUNJAB&Digest=hXg/sdBgynpHNmKLZbIp2A'>-27.22</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2623&fin_year=2025-2026&district_name=Fazilka&state_name=PUNJAB&Digest=lCZkYFGtTeDve4HgMl8NVg'>0<a></font></td>
+<td align='right'><font size='1'>8614.91</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>8587.69</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2623&fin_year=2025-2026&district_name=Fazilka&state_name=PUNJAB&type=uskd&Digest=CuEMNCNgnnQwW3VIUj8OZA'>5291.38</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2623&fin_year=2025-2026&district_name=Fazilka&state_name=PUNJAB&type=skd&Digest=S0lzacu54f1uBXlwEdop6g'>828.84</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2623&fin_year=2025-2026&district_name=Fazilka&state_name=PUNJAB&type=matd&Digest=ZRWKrtxsKqx6P6wehXkKFw'>2247.21</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>204.07</font></td>
+<td align=right ><font size='1'>0.93</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2623&fin_year=2025-2026&district_name=Fazilka&state_name=PUNJAB&Digest=3vEgU0LY2TeqLzKVZgXDxg'>205</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2623&fin_year=2025-2026&district_name=Fazilka&state_name=PUNJAB&Digest=3vEgU0LY2TeqLzKVZgXDxg'>8572.42</a></font></td>
+<td align=right ><font size='1'>99.82</font></td>
+<td align=right ><font size='1'>15.27</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>12.51</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>77.23</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2592.92</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2682.66</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>10</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2603&fin_year=2025-2026&district_name=FEROZEPUR+++++++++++++++++&state_name=PUNJAB&Digest=jL9ZlGaJRqRsKYSmSBt27g'>FEROZEPUR                 </a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2603&fin_year=2025-2026&district_name=FEROZEPUR+++++++++++++++++&state_name=PUNJAB&Digest=mvf24YLuzixyuFRyhEvyjA'>-17.18</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2603&fin_year=2025-2026&district_name=FEROZEPUR+++++++++++++++++&state_name=PUNJAB&Digest=DBFMmJ8GY0AhpNdpvF3f+Q'>0<a></font></td>
+<td align='right'><font size='1'>4762.28</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>4745.1</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2603&fin_year=2025-2026&district_name=FEROZEPUR+++++++++++++++++&state_name=PUNJAB&type=uskd&Digest=3qOdiY3ppPxoJO2VD7uWgw'>4031.25</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2603&fin_year=2025-2026&district_name=FEROZEPUR+++++++++++++++++&state_name=PUNJAB&type=skd&Digest=XLaqMvtmJQlkdsPVwzbOKQ'>80.75</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2603&fin_year=2025-2026&district_name=FEROZEPUR+++++++++++++++++&state_name=PUNJAB&type=matd&Digest=yKGQhHWpViI/CU3/Ka2S0Q'>392.86</a></font></td>
+<td align=right ><font size='1'>10.16</font></td>
+<td align=right ><font size='1'>200.24</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2603&fin_year=2025-2026&district_name=FEROZEPUR+++++++++++++++++&state_name=PUNJAB&Digest=qIkUO3kVpoN9+EmsLxnTQA'>200.24</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2603&fin_year=2025-2026&district_name=FEROZEPUR+++++++++++++++++&state_name=PUNJAB&Digest=qIkUO3kVpoN9+EmsLxnTQA'>4715.26</a></font></td>
+<td align=right ><font size='1'>99.37</font></td>
+<td align=right ><font size='1'>29.84</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>137.46</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>45.07</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1460.41</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>108.33</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1751.27</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>11</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2601&fin_year=2025-2026&district_name=GURDASPUR&state_name=PUNJAB&Digest=AYrVKXvRdM8eHI4J1LlVpA'>GURDASPUR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2601&fin_year=2025-2026&district_name=GURDASPUR&state_name=PUNJAB&Digest=0GHG924WIX24mw+ELJiBRw'>2.51</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2601&fin_year=2025-2026&district_name=GURDASPUR&state_name=PUNJAB&Digest=M3vULJZTET1MvMSFybMdQQ'>0<a></font></td>
+<td align='right'><font size='1'>4776.1</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>4778.61</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2601&fin_year=2025-2026&district_name=GURDASPUR&state_name=PUNJAB&type=uskd&Digest=olXmGWkRFARraH2MQxKl0w'>3369.39</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2601&fin_year=2025-2026&district_name=GURDASPUR&state_name=PUNJAB&type=skd&Digest=mSny4FgKNzNS4acilryVlg'>27.26</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2601&fin_year=2025-2026&district_name=GURDASPUR&state_name=PUNJAB&type=matd&Digest=gbot6HsA86/WLHi7bvi8rA'>922.44</a></font></td>
+<td align=right ><font size='1'>102.61</font></td>
+<td align=right ><font size='1'>282.92</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2601&fin_year=2025-2026&district_name=GURDASPUR&state_name=PUNJAB&Digest=4Rj1yInvXr6UeaZZECMmNA'>282.92</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2601&fin_year=2025-2026&district_name=GURDASPUR&state_name=PUNJAB&Digest=4Rj1yInvXr6UeaZZECMmNA'>4704.61</a></font></td>
+<td align=right ><font size='1'>98.45</font></td>
+<td align=right ><font size='1'>73.99</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>186.69</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2216.24</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>262.43</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2665.36</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>12</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2606&fin_year=2025-2026&district_name=KAPURTHALA&state_name=PUNJAB&Digest=pC/gyx2Anm8uNBW8Xripfg'>KAPURTHALA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2606&fin_year=2025-2026&district_name=KAPURTHALA&state_name=PUNJAB&Digest=UGtCM3+YtL/ROJndaVCzhQ'>22.33</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2606&fin_year=2025-2026&district_name=KAPURTHALA&state_name=PUNJAB&Digest=F3K4NIF1U07ZXr7SmYwMqQ'>0<a></font></td>
+<td align='right'><font size='1'>2765.76</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>2788.1</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2606&fin_year=2025-2026&district_name=KAPURTHALA&state_name=PUNJAB&type=uskd&Digest=/mWXwP1n/0E0gYMkLXwgNQ'>2006.65</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2606&fin_year=2025-2026&district_name=KAPURTHALA&state_name=PUNJAB&type=skd&Digest=fS9qa4M1agv9v1fn2dCOaQ'>16.25</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2606&fin_year=2025-2026&district_name=KAPURTHALA&state_name=PUNJAB&type=matd&Digest=rNQZdWSHYEDvRwLB74No0w'>542.79</a></font></td>
+<td align=right ><font size='1'>39.28</font></td>
+<td align=right ><font size='1'>139.49</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2606&fin_year=2025-2026&district_name=KAPURTHALA&state_name=PUNJAB&Digest=t5ZpcOutFimB6vGNzZ8JnQ'>139.49</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2606&fin_year=2025-2026&district_name=KAPURTHALA&state_name=PUNJAB&Digest=t5ZpcOutFimB6vGNzZ8JnQ'>2744.46</a></font></td>
+<td align=right ><font size='1'>98.43</font></td>
+<td align=right ><font size='1'>43.64</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>20.82</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>457.88</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>23.78</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>502.48</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>13</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2604&fin_year=2025-2026&district_name=LUDHIANA&state_name=PUNJAB&Digest=fsPfWp21PtSUX/gzfGGGww'>LUDHIANA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2604&fin_year=2025-2026&district_name=LUDHIANA&state_name=PUNJAB&Digest=Qiffj4a33PjU790wLN5CgQ'>221.86</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2604&fin_year=2025-2026&district_name=LUDHIANA&state_name=PUNJAB&Digest=EcXKoK8YhlA6fWy7Npd82g'>0<a></font></td>
+<td align='right'><font size='1'>7099.58</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>7321.44</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2604&fin_year=2025-2026&district_name=LUDHIANA&state_name=PUNJAB&type=uskd&Digest=XTyp7M82F0t/KgKoDEhqIA'>6329.88</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2604&fin_year=2025-2026&district_name=LUDHIANA&state_name=PUNJAB&type=skd&Digest=A/Htvl0Wf58Xmd+bXWlFFg'>95.36</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2604&fin_year=2025-2026&district_name=LUDHIANA&state_name=PUNJAB&type=matd&Digest=eT4egkwaImqNSJh89r/W7w'>308.63</a></font></td>
+<td align=right ><font size='1'>34.75</font></td>
+<td align=right ><font size='1'>284.75</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2604&fin_year=2025-2026&district_name=LUDHIANA&state_name=PUNJAB&Digest=NCJTq/unwU1tVHPu+/ggHA'>284.75</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2604&fin_year=2025-2026&district_name=LUDHIANA&state_name=PUNJAB&Digest=NCJTq/unwU1tVHPu+/ggHA'>7053.37</a></font></td>
+<td align=right ><font size='1'>96.34</font></td>
+<td align=right ><font size='1'>268.07</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>26.75</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>44.81</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>860.63</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>86.22</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1018.41</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>14</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2624&fin_year=2025-2026&district_name=MALERKOTLA&state_name=PUNJAB&Digest=QSEMpjP13e85Xv2NYwOM4A'>MALERKOTLA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2624&fin_year=2025-2026&district_name=MALERKOTLA&state_name=PUNJAB&Digest=bafhhx/Inpfc87uvVCJDXg'>-8.32</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2624&fin_year=2025-2026&district_name=MALERKOTLA&state_name=PUNJAB&Digest=wXVilxBr2IifKDsj8Z/7OA'>0<a></font></td>
+<td align='right'><font size='1'>1625.78</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1617.46</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2624&fin_year=2025-2026&district_name=MALERKOTLA&state_name=PUNJAB&type=uskd&Digest=hNWd4OQfHq5sCxMbAeq63g'>1276.98</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2624&fin_year=2025-2026&district_name=MALERKOTLA&state_name=PUNJAB&type=skd&Digest=h2KJuZCXzL1Wdwb6/jKhGg'>32.41</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2624&fin_year=2025-2026&district_name=MALERKOTLA&state_name=PUNJAB&type=matd&Digest=X73SS5FxEPRr0UhnpKBWoA'>241.26</a></font></td>
+<td align=right ><font size='1'>12.54</font></td>
+<td align=right ><font size='1'>51.65</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2624&fin_year=2025-2026&district_name=MALERKOTLA&state_name=PUNJAB&Digest=fVVLl1P/H6Tsyrv9Vic1bg'>51.65</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2624&fin_year=2025-2026&district_name=MALERKOTLA&state_name=PUNJAB&Digest=fVVLl1P/H6Tsyrv9Vic1bg'>1614.84</a></font></td>
+<td align=right ><font size='1'>99.84</font></td>
+<td align=right ><font size='1'>2.62</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.17</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.04</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>145.87</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>11.87</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>158.95</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>15</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2617&fin_year=2025-2026&district_name=MANSA&state_name=PUNJAB&Digest=N/F3geSnQgygCzgANLiK+g'>MANSA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2617&fin_year=2025-2026&district_name=MANSA&state_name=PUNJAB&Digest=VpnzbbhHOtXSCTwESfLQdA'>-1.7</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2617&fin_year=2025-2026&district_name=MANSA&state_name=PUNJAB&Digest=d5UiH0rEQSNm8Zl8A6V61w'>0<a></font></td>
+<td align='right'><font size='1'>3676.97</font></td>
+<td align=right ><font size='1'>0.73</font></td>
+<td align=right><font size='1'>3676</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2617&fin_year=2025-2026&district_name=MANSA&state_name=PUNJAB&type=uskd&Digest=9EPw5tOFIsbYhtY9oeL4eg'>3089.65</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2617&fin_year=2025-2026&district_name=MANSA&state_name=PUNJAB&type=skd&Digest=hI2Wa7tLEYurpnLvEyTZzw'>99.31</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2617&fin_year=2025-2026&district_name=MANSA&state_name=PUNJAB&type=matd&Digest=9QeZPX92ZawzxSXwNWUlzA'>290.9</a></font></td>
+<td align=right ><font size='1'>28.02</font></td>
+<td align=right ><font size='1'>149.34</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2617&fin_year=2025-2026&district_name=MANSA&state_name=PUNJAB&Digest=TquCk6E1EM983HHfkLo9nQ'>149.34</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2617&fin_year=2025-2026&district_name=MANSA&state_name=PUNJAB&Digest=TquCk6E1EM983HHfkLo9nQ'>3657.22</a></font></td>
+<td align=right ><font size='1'>99.49</font></td>
+<td align=right ><font size='1'>18.77</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>17.88</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>13.2</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>498.04</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>53.65</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>582.77</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>16</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2615&fin_year=2025-2026&district_name=MOGA&state_name=PUNJAB&Digest=mhQ01+7lGJ2J5SWGHwaPdA'>MOGA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2615&fin_year=2025-2026&district_name=MOGA&state_name=PUNJAB&Digest=owJQkO5gOhbYh3gywY6LiA'>111.54</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2615&fin_year=2025-2026&district_name=MOGA&state_name=PUNJAB&Digest=0S+O4KpYGBR4xkY+REFaWg'>0<a></font></td>
+<td align='right'><font size='1'>4025.93</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>4137.47</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2615&fin_year=2025-2026&district_name=MOGA&state_name=PUNJAB&type=uskd&Digest=0+hN+36t4+pLtkPfeYSBLA'>3579.83</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2615&fin_year=2025-2026&district_name=MOGA&state_name=PUNJAB&type=skd&Digest=yXwAIWdE0M6qu69JvTiiPg'>45.61</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2615&fin_year=2025-2026&district_name=MOGA&state_name=PUNJAB&type=matd&Digest=iOszi0wl2Y7XDUrsvYIw3Q'>161.86</a></font></td>
+<td align=right ><font size='1'>18.93</font></td>
+<td align=right ><font size='1'>209.05</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2615&fin_year=2025-2026&district_name=MOGA&state_name=PUNJAB&Digest=6vMdVSQUfjUmRkTQ8iF/2A'>209.05</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2615&fin_year=2025-2026&district_name=MOGA&state_name=PUNJAB&Digest=6vMdVSQUfjUmRkTQ8iF/2A'>4015.28</a></font></td>
+<td align=right ><font size='1'>97.05</font></td>
+<td align=right ><font size='1'>122.19</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>39.37</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>56.72</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1266.83</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>131.2</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1494.12</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>17</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2616&fin_year=2025-2026&district_name=MUKATSAR&state_name=PUNJAB&Digest=CXB5s7kAm4tP5q+MlmIaBg'>MUKATSAR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2616&fin_year=2025-2026&district_name=MUKATSAR&state_name=PUNJAB&Digest=VSDBfKuGPs7R9sXUL44GNQ'>79.68</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2616&fin_year=2025-2026&district_name=MUKATSAR&state_name=PUNJAB&Digest=DAm2WRIsq8+Za3HLBd5C1w'>0<a></font></td>
+<td align='right'><font size='1'>5237.18</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>5316.86</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2616&fin_year=2025-2026&district_name=MUKATSAR&state_name=PUNJAB&type=uskd&Digest=7TZH/mm4376sRaRgLu+SYg'>3591.95</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2616&fin_year=2025-2026&district_name=MUKATSAR&state_name=PUNJAB&type=skd&Digest=MIPkfqTqWjXthVwu+QIS7Q'>133.01</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2616&fin_year=2025-2026&district_name=MUKATSAR&state_name=PUNJAB&type=matd&Digest=BjZNGhlOGuFjRy3ILr+K5A'>1230.25</a></font></td>
+<td align=right ><font size='1'>7.19</font></td>
+<td align=right ><font size='1'>211.25</font></td>
+<td align=right ><font size='1'>2.25</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2616&fin_year=2025-2026&district_name=MUKATSAR&state_name=PUNJAB&Digest=GDlt493Uw9XIocTMrUFmyA'>213.5</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2616&fin_year=2025-2026&district_name=MUKATSAR&state_name=PUNJAB&Digest=GDlt493Uw9XIocTMrUFmyA'>5175.91</a></font></td>
+<td align=right ><font size='1'>97.35</font></td>
+<td align=right ><font size='1'>140.95</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>70.82</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>27.7</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>959.84</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>6.74</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1065.1</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>18</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2622&fin_year=2025-2026&district_name=Pathankot&state_name=PUNJAB&Digest=alZpCwdgPr7MULni5Ef4mA'>Pathankot</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2622&fin_year=2025-2026&district_name=Pathankot&state_name=PUNJAB&Digest=QlnWwN5iBiYZSBLOhZlkqQ'>26.62</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2622&fin_year=2025-2026&district_name=Pathankot&state_name=PUNJAB&Digest=HiFDazFdVKPg88rjJ2qpsA'>0<a></font></td>
+<td align='right'><font size='1'>2953.25</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>2979.88</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2622&fin_year=2025-2026&district_name=Pathankot&state_name=PUNJAB&type=uskd&Digest=XUYDwsqpPTrWYSdCiQMb6g'>2111.54</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2622&fin_year=2025-2026&district_name=Pathankot&state_name=PUNJAB&type=skd&Digest=4mILTGJNH7AFRHaxvLkOpQ'>10.99</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2622&fin_year=2025-2026&district_name=Pathankot&state_name=PUNJAB&type=matd&Digest=42RGEoW/ks/tS1TcLysDdA'>463.62</a></font></td>
+<td align=right ><font size='1'>36.21</font></td>
+<td align=right ><font size='1'>269.45</font></td>
+<td align=right ><font size='1'>4.09</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2622&fin_year=2025-2026&district_name=Pathankot&state_name=PUNJAB&Digest=QmOsTGbvBHXLD2LNk7Y5ew'>273.54</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2622&fin_year=2025-2026&district_name=Pathankot&state_name=PUNJAB&Digest=QmOsTGbvBHXLD2LNk7Y5ew'>2895.9</a></font></td>
+<td align=right ><font size='1'>97.18</font></td>
+<td align=right ><font size='1'>83.98</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>51.96</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2.1</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1312.64</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>73.96</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1440.66</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>19</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2609&fin_year=2025-2026&district_name=PATIALA&state_name=PUNJAB&Digest=gb3PCTD2E2GUKdhUuuS67Q'>PATIALA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2609&fin_year=2025-2026&district_name=PATIALA&state_name=PUNJAB&Digest=uDWa/6JbpH6brvnlInyb3g'>136.81</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2609&fin_year=2025-2026&district_name=PATIALA&state_name=PUNJAB&Digest=wUswRMJCG69gbj5H1MQfCw'>0<a></font></td>
+<td align='right'><font size='1'>6293.83</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>6430.64</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2609&fin_year=2025-2026&district_name=PATIALA&state_name=PUNJAB&type=uskd&Digest=k3sIJmaWI+aozu5E93qYPA'>5777.2</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2609&fin_year=2025-2026&district_name=PATIALA&state_name=PUNJAB&type=skd&Digest=4RR/HI02eBpkVjNH+AWMOQ'>39.52</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2609&fin_year=2025-2026&district_name=PATIALA&state_name=PUNJAB&type=matd&Digest=zvVpEPsZ3nmgZyTHzIVb/w'>213.54</a></font></td>
+<td align=right ><font size='1'>7.6</font></td>
+<td align=right ><font size='1'>226.27</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2609&fin_year=2025-2026&district_name=PATIALA&state_name=PUNJAB&Digest=IOO4Vx6Ah7yqTSqBP5jfhg'>226.27</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2609&fin_year=2025-2026&district_name=PATIALA&state_name=PUNJAB&Digest=IOO4Vx6Ah7yqTSqBP5jfhg'>6264.13</a></font></td>
+<td align=right ><font size='1'>97.41</font></td>
+<td align=right ><font size='1'>166.51</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>9</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>4.17</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>965.43</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>40.16</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1018.76</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>20</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2608&fin_year=2025-2026&district_name=ROPAR&state_name=PUNJAB&Digest=Cd1lA8xGmN8V4Qw+xExqog'>ROPAR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2608&fin_year=2025-2026&district_name=ROPAR&state_name=PUNJAB&Digest=Uj+BBJtpLHsknrNf6gOJ0w'>0</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2608&fin_year=2025-2026&district_name=ROPAR&state_name=PUNJAB&Digest=SNXOsENX8K9DsMpnhAN/gA'>0<a></font></td>
+<td align='right'><font size='1'>4846.28</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>4846.28</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2608&fin_year=2025-2026&district_name=ROPAR&state_name=PUNJAB&type=uskd&Digest=vGVSHCi9sxlqJmWkP4O6Sw'>3410.4</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2608&fin_year=2025-2026&district_name=ROPAR&state_name=PUNJAB&type=skd&Digest=G1GwGPKa6T50Ud4QWbtrfg'>107.79</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2608&fin_year=2025-2026&district_name=ROPAR&state_name=PUNJAB&type=matd&Digest=G7L1COxNL6kcAcgHV4sWDA'>1070.01</a></font></td>
+<td align=right ><font size='1'>82.39</font></td>
+<td align=right ><font size='1'>161.22</font></td>
+<td align=right ><font size='1'>0.89</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2608&fin_year=2025-2026&district_name=ROPAR&state_name=PUNJAB&Digest=Lm9FcI7nIhvGeDpkgpZ+Dw'>162.12</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2608&fin_year=2025-2026&district_name=ROPAR&state_name=PUNJAB&Digest=Lm9FcI7nIhvGeDpkgpZ+Dw'>4832.71</a></font></td>
+<td align=right ><font size='1'>99.72</font></td>
+<td align=right ><font size='1'>13.56</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>7.41</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>74.57</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1779.9</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>151.22</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2013.1</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>21</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2610&fin_year=2025-2026&district_name=SANGRUR&state_name=PUNJAB&Digest=cX4E9XdFfOVGYZVVBwIVtQ'>SANGRUR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2610&fin_year=2025-2026&district_name=SANGRUR&state_name=PUNJAB&Digest=TLbLZYRdpd2zqTn7C+PMqg'>0</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2610&fin_year=2025-2026&district_name=SANGRUR&state_name=PUNJAB&Digest=8hRnOe7lk9jxpDXE+B4Rcw'>0<a></font></td>
+<td align='right'><font size='1'>6103.74</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>6103.74</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2610&fin_year=2025-2026&district_name=SANGRUR&state_name=PUNJAB&type=uskd&Digest=jtNpO2i5Wm7iFuxWcnwn8Q'>5292.71</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2610&fin_year=2025-2026&district_name=SANGRUR&state_name=PUNJAB&type=skd&Digest=MBCwNB3AIGIBfh298vi0ig'>84.4</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2610&fin_year=2025-2026&district_name=SANGRUR&state_name=PUNJAB&type=matd&Digest=Yk7L/VMUyiNuyhF+F0fcAQ'>440</a></font></td>
+<td align=right ><font size='1'>24.39</font></td>
+<td align=right ><font size='1'>242.49</font></td>
+<td align=right ><font size='1'>0.89</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2610&fin_year=2025-2026&district_name=SANGRUR&state_name=PUNJAB&Digest=erH1p0rr2+rw5stTJCBV1A'>243.38</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2610&fin_year=2025-2026&district_name=SANGRUR&state_name=PUNJAB&Digest=erH1p0rr2+rw5stTJCBV1A'>6084.87</a></font></td>
+<td align=right ><font size='1'>99.69</font></td>
+<td align=right ><font size='1'>18.87</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>6.15</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>5.85</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>796.18</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>44.46</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>852.64</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>22</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2619&fin_year=2025-2026&district_name=SAS+NAGAR+MOHALI&state_name=PUNJAB&Digest=lOfZ8xbz0y25Xj3moVsBqA'>SAS NAGAR MOHALI</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2619&fin_year=2025-2026&district_name=SAS+NAGAR+MOHALI&state_name=PUNJAB&Digest=JoJ46m3B7hjgOENZqtOLzA'>0</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2619&fin_year=2025-2026&district_name=SAS+NAGAR+MOHALI&state_name=PUNJAB&Digest=8ts4MBFl+uDDlvZVhnV8eA'>0<a></font></td>
+<td align='right'><font size='1'>1964.15</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1964.15</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2619&fin_year=2025-2026&district_name=SAS+NAGAR+MOHALI&state_name=PUNJAB&type=uskd&Digest=Z7HkjeAMg5o5+tIKBvUoCQ'>1601.19</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2619&fin_year=2025-2026&district_name=SAS+NAGAR+MOHALI&state_name=PUNJAB&type=skd&Digest=x95warduk4jpc+ICSlXVHA'>33.8</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2619&fin_year=2025-2026&district_name=SAS+NAGAR+MOHALI&state_name=PUNJAB&type=matd&Digest=F0tEOLEgKfkXSwzH1//OoQ'>229.5</a></font></td>
+<td align=right ><font size='1'>25.29</font></td>
+<td align=right ><font size='1'>69.12</font></td>
+<td align=right ><font size='1'>0.18</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2619&fin_year=2025-2026&district_name=SAS+NAGAR+MOHALI&state_name=PUNJAB&Digest=qGFkYmmEW/AWrutOqbLXvg'>69.29</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2619&fin_year=2025-2026&district_name=SAS+NAGAR+MOHALI&state_name=PUNJAB&Digest=qGFkYmmEW/AWrutOqbLXvg'>1959.07</a></font></td>
+<td align=right ><font size='1'>99.74</font></td>
+<td align=right ><font size='1'>5.08</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>7.23</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>27.42</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>513.44</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>59.91</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>608</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>23</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2620&fin_year=2025-2026&district_name=TARN+TARAN&state_name=PUNJAB&Digest=m2cd85Eapaaha84MAuiYNA'>TARN TARAN</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2620&fin_year=2025-2026&district_name=TARN+TARAN&state_name=PUNJAB&Digest=7INlv7/GbjhAun05Gcfcpg'>36.67</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2620&fin_year=2025-2026&district_name=TARN+TARAN&state_name=PUNJAB&Digest=4w3Qa1pzWo3i1f3fr5gDZg'>0<a></font></td>
+<td align='right'><font size='1'>5768.96</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>5805.63</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2620&fin_year=2025-2026&district_name=TARN+TARAN&state_name=PUNJAB&type=uskd&Digest=FBVeqvhF7JAvycyuQQE3ow'>4521.87</a></font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2620&fin_year=2025-2026&district_name=TARN+TARAN&state_name=PUNJAB&type=skd&Digest=3E+15rZJcCGOrFJgoGQ65g'>44.97</font></a></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2620&fin_year=2025-2026&district_name=TARN+TARAN&state_name=PUNJAB&type=matd&Digest=yaHMoGcgA96/pXVQU2VfkA'>900.8</a></font></td>
+<td align=right ><font size='1'>0.24</font></td>
+<td align=right ><font size='1'>176.67</font></td>
+<td align=right ><font size='1'>0.38</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2620&fin_year=2025-2026&district_name=TARN+TARAN&state_name=PUNJAB&Digest=En0flLhp3pVMeqE/MFm68w'>177.05</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2620&fin_year=2025-2026&district_name=TARN+TARAN&state_name=PUNJAB&Digest=En0flLhp3pVMeqE/MFm68w'>5644.92</a></font></td>
+<td align=right ><font size='1'>97.23</font></td>
+<td align=right ><font size='1'>160.71</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>199.62</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.64</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1787.94</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.14</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1989.34</font></td>
+</tr>
+<tr style='background-color:#FF6699'>
+<td colspan='2'><font size='1' >PhaseIII Total</font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>663.41</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>85478.4</font></td>
+<td align=right ><font size='1'>0.73</font></td>
+<td align=right><font size='1'>86142.56</font></td>
+<td align=right ><font size='1'>68395.77</font></td>
+<td align=right ><font size='1'>1850.74</font></td>
+<td align=right ><font size='1'>10435.92</font></td>
+<td align=right ><font size='1'>499.88</font></td>
+<td align=right ><font size='1'>3646.74</font></td>
+<td align=right ><font size='1'>9.96</font></td>
+<td align=right ><font size='1'>3656.7</font></td>
+<td align=right ><font size='1'>84839</font></td>
+<td align=right ><font size='1'>98.49</font></td>
+<td align=right ><font size='1'>1303.57</font></td>
+<td align=right ><font size='1'>812.27</font></td>
+<td align=right ><font size='1'>422.28</font></td>
+<td align=right ><font size='1'>19410.91</font></td>
+<td align=right ><font size='1'>1212.64</font></td>
+<td align=right ><font size='1'>21858.1</font></td>
+</tr>
+<td  colspan='2' ><font size='1'>All District Total </font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>1075.54</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>102106</font></td>
+<td align=right ><font size='1'>0.73</font></td>
+<td align=right><font size='1'>103182.27</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >81878.26</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >1989.31</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >12334.77</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>629.39</font></td>
+<td align=right ><font size='1' >4524.83</font></td>
+<td align=right ><font size='1' >24.75</font></td>
+<td align=right ><font size='1' >4549.58</font></td>
+<td align=right ><font size='1' >101381.31</font></td>
+<td align=right ><font size='1'>98.25</font></td>
+<td align=right ><font size='1'>1800.97</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1' >988.39</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1' >475.14</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>23298.09</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1448.95</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>26210.57</font></td>
+</tr>
+<tr style='background-color:#B1E399'><td  colspan='2' ><font size='1'>  State Fund </font></td>
+<td align=right><font size='1'></font></td>
+<td align=right><font size='1'>7340.52</font></td>
+<td align=right colspan='2'><font size='1'>0</font></td>
+<td align=right><font size='1'> </font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>-89969.35</font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'>169.49</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>169.49</font></td>
+<td align=right ><font size='1'>169.49</font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'>-90138.84</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+</tr>
+<tr style='background-color:#B1E399'><td  colspan='2' ><font size='1'>  Grand Total of State </font></td>
+<td align=right><font size='1'></font></td>
+<td align=right><font size='1'>8416.06</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>102106</font></td>
+<td align=right ><font size='1'>0.73</font></td>
+<td align=right ><font size='1'>13212.92</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>81878.26</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>1989.31</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>12334.77</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>629.39</font></td>
+<td align=right ><font size='1'>4694.32</font></td>
+<td align=right ><font size='1'>24.75</font></td>
+<td align=right ><font size='1'>4719.07</font></td>
+<td align=right ><font size='1'>101550.8</font></td>
+<td align=right ><font size='1'>767.29</font></td>
+<td align=right ><font size='1'>-88337.87</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>988.39</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>475.14</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>23298.09</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1448.95</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>26210.57</font></td>
+</tr>
+</table>
+</center>
+<b><font color='Silver' >*</font><font size='1'>Status of State Fund:</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> OB of State Fund= 7340.51807</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> OB of State Fund= 7340.51807</font></b><br><b><font color='Silver' >•</font><font size='1'> Releases by Centre to State Fund in current FY= 92753.38774</b></font><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Releases by State as State share against centre release in the current FY= 0</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Misc (if any)= 0</font></b><br>
+                      
+<b><font color='Silver' >•</font> <font size='1'>Total Availability at State Fund= 100093.90581</font></b><br>
+                      
+<b><font color='Silver' >•</font> <font size='1'>Refund From SEGF= 0</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Balance of State Fund= -90138.84</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Fund in Transit=Rs. 0</font></b><br>
+<font size='1'>Note: </font><br>
+<i><font size='1'><b>These Figures are Cumulatively Display.</font></i></b><br>
+<b><font size='1'>Col 3: OB=CB of last FY as per MIS</font></b><br>
+<b><font size='1'>Col 4: OB=OB entered manually in the MIS</font></b><br>
+<font color='#DC143C' size='2'><b>**<i> Payment due means MR,Bills/Vouchers that have been entered but payment date has not been entered in the MIS.</i></font></b><br>
+<center>
+Report Completed
+</br>
+					
+</center>
+</body>
+</html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Untitled Page
+</title></head>
+<body>
+    <form name="form1" method="post" action="./excelview.aspx?lflag=eng&amp;fn=E%3a%5cNrega%5cNetnrega%5cwritereaddata%2fcitizen_out%2ffundstreportMtemp_Out26_2526_.html&amp;Digest=7P1EbeyHh3JLgLK6eEibUA" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="i8cKgfeFStVceYqNcytr89Y/443xWPrn1Wmpxpyp1AIodS2VngdEGDN+btERu31cajaBMWgwKpl9oO69HBn2ZqM+WlHbjf+fn+37hgADFoQ=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Netnrega/WebResource.axd?d=OPxivriMJYeEjlxmISWZHc6x3ZOduh_4HYFeOmvGuzi1hI6Xp7XRUTkZqC7FgyA-1o-7eJGEiic6jxz1mzu9fsbJcEhhT6ahWFQejVUFUmU1&amp;t=638901734248157332" type="text/javascript"></script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="01123B89" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <div>
+    
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>

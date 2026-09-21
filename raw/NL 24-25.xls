@@ -1,0 +1,616 @@
+
+			
+<table border='1' width='100%' cellspacing='0' cellpadding='0' ID='Table3'>
+<tr>
+<center><h3>Financial Performance Under MGNREGA during the Financial Year 2024-2025   </h3></center>
+</tr>
+<tr>
+<td colspan='23' bgcolor='#00CCFF'><font  size='2'><b>State:NAGALAND</b></font></td>
+<td colspan='7' bgcolor='#00CCFF'> <font  size='2'><b>(Rs. in Lakhs)</b></font></td>
+</tr>
+<tr>
+<td rowspan='3' align='center'><font   size='1'>S.No</font></td>
+<td rowspan='3' align='center'><font   size='1'>District</font></td>
+<td colspan='2' align='center'><font   size='1'>Opening Balance(OB)</font></td>
+<td colspan='2' align='center'><font   size='1'>Release of<br>Last FY but<br>Received<br>during the <br>Current FY</font></td>
+<td  rowspan='3' align='left'><font   size='1'>Release from<br>State Fund<font color='#666666' size='2'>(*)</font> to<br>districts</font></td>
+<td rowspan='3' align='center'><font   size='1'>Authorisation <br>of <br>EFMS</font></td>
+<td rowspan='3' align='center'><font   size='1'>Misc Reciept</font></td>
+<td rowspan='3' align='center'><font   size='1'>Total Availabilty</font></td>
+<td colspan='8' align='center'><font   size='1'>Cumulative Expenditure</font></td>
+<td rowspan='3' align='center'><font   size='1'>%age Utilization</font></td>
+<td rowspan='3' align='center'><font   size='1'>Balance</font></td>
+<td colspan='5' align='center'><font   size='1' color='808000'><strong>Payment due</strong></font><font color='#666666'>**</font></td>
+</tr>
+<tr>
+<td rowspan='2' align='center'><font   size='1'></font></td>
+<td rowspan='2' align='center'><font   size='1'>Entered OB </font></td>
+<td rowspan='2' align='center'><font   size='1'>Centre</font></td>
+<td rowspan='2' align='center'><font   size='1'>State </font></td>
+<td colspan='4' align='center' bgcolor='#FFCC99'><font   size='1' >Actual Expenditure</font></td>
+<td colspan='3' align='center' ><font   size='1' >Adm.Exp </font></td>
+<td rowspan='2' align='center' ><font   size='1' >Total</font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Unskilled Wage </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Semi-skilled and Skilled Wage </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Material</font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >Tax </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >Total</font></td>
+</tr>
+<tr>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Unskilled Wage </font></td>
+<td align='center' bgcolor='#FFCC99'><font   size='1'>Semi-skilled and Skilled Wage</font></td>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Material </font></td>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Tax  </font></td>
+<td align='center' ><font size='1' >Rec Exp</font></td>
+<td align='center' ><font size='1' >Non-Rec Exp  </font></td>
+<td align='center'><font size='1' >Total Adm. Exp  </font></td>
+</tr>
+<td align='center'><font size='1'>1</font></td>
+<td align='center'><font size='1'>2</font></td>
+<td align='center'><font size='1'></font></td>
+<td align='center'><font size='1'>4</font></td>
+<td align='center'><font size='1'>5</font></td>
+<td align='center'><font size='1'>6</font></td>
+<td align='center'><font size='1'>7</font></td>
+<td align='center'><font size='1'>8</font></td>
+<td align='center'><font size='1'>9</font></td>
+<td align='center'><font size='1'>14=(4+5+6+7+8+9+10+13)-(11+12)</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>16</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>17</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>18</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>19</font></td>
+<td align='center' ><font size='1'>20</font></td>
+<td align='center' ><font size='1'>21</font></td>
+<td align='center' ><font size='1'>22=20+21</font></td>
+<td align='center' ><font size='1'>23=16+17+18+19+22</font></td>
+<td align='center'><font size='1'>24=(23/14)*100</font></td>
+<td align='center'><font size='1'>25=14-23</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>26</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>27</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>28</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>29</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>30=26+27+28+29</font></td>
+</tr>
+<tr><td colspan='29'>Phase I</td>
+<tr>
+<td align=right ><font size='1'>1</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2307&fin_year=2024-2025&district_name=MON&state_name=NAGALAND&Digest=SLbDhIcDx7l8VJCCFAaP+Q'>MON</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2307&fin_year=2024-2025&district_name=MON&state_name=NAGALAND&Digest=WwEEGn9zcS8++om5oEqcfg'>-504.85</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2307&fin_year=2024-2025&district_name=MON&state_name=NAGALAND&Digest=9E/RafpR1ZCNrH3kYLYWtQ'>0<a></font></td>
+<td align='right'><font size='1'>7788.66</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>7283.81</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2307&fin_year=2024-2025&district_name=MON&state_name=NAGALAND&type=uskd&Digest=SUjbaE3xIpTqhUilIO508A'>4697.53</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2307&fin_year=2024-2025&district_name=MON&state_name=NAGALAND&type=matd&Digest=5vqrdSQTD7VW2nCUSl4Xug'>2974.69</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>113.61</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2307&fin_year=2024-2025&district_name=MON&state_name=NAGALAND&Digest=dtgISAZ01/LrijdLsMsyLw'>113.61</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2307&fin_year=2024-2025&district_name=MON&state_name=NAGALAND&Digest=dtgISAZ01/LrijdLsMsyLw'>7785.83</a></font></td>
+<td align=right ><font size='1'>106.89</font></td>
+<td align=right ><font size='1'>-502.01</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2.15</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2.15</font></td>
+</tr>
+<tr style='background-color:#FFFF66'>
+<td colspan='2'><font size='1' >PhaseI Total</font></td>
+<td align=right><font size='1'></font></td>
+<td align=right ><font size='1'>-504.85</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>7788.66</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>7283.81</font></td>
+<td align=right><font size='1'>4697.53</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>2974.69</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>113.61</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>113.61</font></td>
+<td align=right ><font size='1'>7785.83</font></td>
+<td align=right ><font size='1'>106.89</font></td>
+<td align=right ><font size='1'>-502.01</font></td>
+<td align=right><font size='1'>2.15</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>2.15</font></td>
+</tr>
+<tr><td colspan='29' >Phase II</td></tr>
+<tr>
+<td align=right ><font size='1'>2</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2301&fin_year=2024-2025&district_name=KOHIMA&state_name=NAGALAND&Digest=cdamfkKcHR4Dk8D1L320YA'>KOHIMA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2301&fin_year=2024-2025&district_name=KOHIMA&state_name=NAGALAND&Digest=zWD1Y1X+lIY/5g1czEC/Rg'>-45.37</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2301&fin_year=2024-2025&district_name=KOHIMA&state_name=NAGALAND&Digest=Zw8f9q2/jIy73dpCYCMxKA'>0<a></font></td>
+<td align='right'><font size='1'>2498.63</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>2453.26</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2301&fin_year=2024-2025&district_name=KOHIMA&state_name=NAGALAND&type=uskd&Digest=Bpcv59I8NsFSt/wmo/T6sw'>690.42</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2301&fin_year=2024-2025&district_name=KOHIMA&state_name=NAGALAND&type=matd&Digest=7MbhumFmgM7GL74oPr38eQ'>1663.05</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>143.75</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2301&fin_year=2024-2025&district_name=KOHIMA&state_name=NAGALAND&Digest=3ryK25wXv72YF2BwbmKZVA'>143.75</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2301&fin_year=2024-2025&district_name=KOHIMA&state_name=NAGALAND&Digest=3ryK25wXv72YF2BwbmKZVA'>2497.22</a></font></td>
+<td align=right ><font size='1'>101.79</font></td>
+<td align=right ><font size='1'>-43.96</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>3</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2305&fin_year=2024-2025&district_name=MOKOKCHUNG&state_name=NAGALAND&Digest=QopdnWzo5/y3owSfqtM/sQ'>MOKOKCHUNG</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2305&fin_year=2024-2025&district_name=MOKOKCHUNG&state_name=NAGALAND&Digest=rV+nDJhPFNFbOoVZXqMMww'>143.31</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2305&fin_year=2024-2025&district_name=MOKOKCHUNG&state_name=NAGALAND&Digest=F8w2U86WuPoRiI501ywscQ'>0<a></font></td>
+<td align='right'><font size='1'>5223.42</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>5366.73</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2305&fin_year=2024-2025&district_name=MOKOKCHUNG&state_name=NAGALAND&type=uskd&Digest=uSxDd20094RgmnxZ5fIbQQ'>2626.56</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2305&fin_year=2024-2025&district_name=MOKOKCHUNG&state_name=NAGALAND&type=matd&Digest=/oYndECn4TRF6Sj54l4qRA'>2454.54</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>137.97</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2305&fin_year=2024-2025&district_name=MOKOKCHUNG&state_name=NAGALAND&Digest=H3Z2BOOMbqpMTVZBwJlR2A'>137.97</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2305&fin_year=2024-2025&district_name=MOKOKCHUNG&state_name=NAGALAND&Digest=H3Z2BOOMbqpMTVZBwJlR2A'>5219.07</a></font></td>
+<td align=right ><font size='1'>97.25</font></td>
+<td align=right ><font size='1'>147.65</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.58</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.58</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>4</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2306&fin_year=2024-2025&district_name=TUENSANG&state_name=NAGALAND&Digest=NIKhKNbKfRKzUDb7BThPyg'>TUENSANG</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2306&fin_year=2024-2025&district_name=TUENSANG&state_name=NAGALAND&Digest=b+7rYnhOyFZJ4DfILTq42Q'>2.29</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2306&fin_year=2024-2025&district_name=TUENSANG&state_name=NAGALAND&Digest=oCbbeKB/4Ave3O5SAH3fEw'>0<a></font></td>
+<td align='right'><font size='1'>4377.6</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>4379.89</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2306&fin_year=2024-2025&district_name=TUENSANG&state_name=NAGALAND&type=uskd&Digest=J0u/Z6l2/Ds5pNT5/yhXzQ'>1793.24</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2306&fin_year=2024-2025&district_name=TUENSANG&state_name=NAGALAND&type=matd&Digest=eQif+Q886I9c1RlysqWQ/w'>2486.24</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>96.87</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2306&fin_year=2024-2025&district_name=TUENSANG&state_name=NAGALAND&Digest=lPhe/TxpmYd064KURw8egg'>96.87</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2306&fin_year=2024-2025&district_name=TUENSANG&state_name=NAGALAND&Digest=lPhe/TxpmYd064KURw8egg'>4376.34</a></font></td>
+<td align=right ><font size='1'>99.92</font></td>
+<td align=right ><font size='1'>3.54</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.12</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>502.03</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>502.15</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>5</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2304&fin_year=2024-2025&district_name=WOKHA&state_name=NAGALAND&Digest=gmMC4Axru3ZRrMVnI2EDzA'>WOKHA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2304&fin_year=2024-2025&district_name=WOKHA&state_name=NAGALAND&Digest=D/xzw7vXb9lobwZiHGBMoQ'>-212.9</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2304&fin_year=2024-2025&district_name=WOKHA&state_name=NAGALAND&Digest=X5J3mBUD8p06xIMzinBxVA'>0<a></font></td>
+<td align='right'><font size='1'>4047.41</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>3834.51</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2304&fin_year=2024-2025&district_name=WOKHA&state_name=NAGALAND&type=uskd&Digest=wE9WEQVuIOq0R7xpF1cnGA'>2539.93</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2304&fin_year=2024-2025&district_name=WOKHA&state_name=NAGALAND&type=matd&Digest=YMNVutaDLfTixmC+zJSDlg'>1392.01</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>106.06</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2304&fin_year=2024-2025&district_name=WOKHA&state_name=NAGALAND&Digest=8CT7X28FTWr+zfC1Opre4Q'>106.06</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2304&fin_year=2024-2025&district_name=WOKHA&state_name=NAGALAND&Digest=8CT7X28FTWr+zfC1Opre4Q'>4038</a></font></td>
+<td align=right ><font size='1'>105.31</font></td>
+<td align=right ><font size='1'>-203.49</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr style='background-color:#FFCC66'>
+<td colspan='2'><font size='1' >PhaseII Total</font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>-112.67</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>16147.06</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>16034.39</font></td>
+<td align=right><font size='1'>7650.15</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>7995.84</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right ><font size='1'>484.65</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>484.65</font></td>
+<td align=right ><font size='1'>16130.64</font></td>
+<td align=right ><font size='1'>100.6</font></td>
+<td align=right ><font size='1'>-96.26</font></td>
+<td align=right><font size='1'>1.7</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>502.03</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>503.73</font></td>
+</tr>
+<tr><td  colspan='29'>Phase III</td></tr>
+<tr>
+<td align=right ><font size='1'>6</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2308&fin_year=2024-2025&district_name=DIMAPUR&state_name=NAGALAND&Digest=Ffa3aLZv8IL4whOo30Yp/Q'>DIMAPUR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2308&fin_year=2024-2025&district_name=DIMAPUR&state_name=NAGALAND&Digest=/KYuTMaHzHHwEXesGBKCzg'>-475.12</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2308&fin_year=2024-2025&district_name=DIMAPUR&state_name=NAGALAND&Digest=s1jcHAIMCp7UykO/Yw1VWw'>0<a></font></td>
+<td align='right'><font size='1'>4811.32</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>4336.2</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2308&fin_year=2024-2025&district_name=DIMAPUR&state_name=NAGALAND&type=uskd&Digest=uLHkAHg97vbUskwfLY1y1A'>2046.87</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2308&fin_year=2024-2025&district_name=DIMAPUR&state_name=NAGALAND&type=matd&Digest=oC69xXCpO2T4dexx0P/FPw'>2598.36</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>151.81</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2308&fin_year=2024-2025&district_name=DIMAPUR&state_name=NAGALAND&Digest=iuZT5uv7XBlVs18ij2u8jg'>151.81</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2308&fin_year=2024-2025&district_name=DIMAPUR&state_name=NAGALAND&Digest=iuZT5uv7XBlVs18ij2u8jg'>4797.04</a></font></td>
+<td align=right ><font size='1'>110.63</font></td>
+<td align=right ><font size='1'>-460.84</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.05</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>48.23</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>48.28</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>7</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2309&fin_year=2024-2025&district_name=KIPHIRE&state_name=NAGALAND&Digest=p4btL0B9jMwonKNMQoCCUg'>KIPHIRE</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2309&fin_year=2024-2025&district_name=KIPHIRE&state_name=NAGALAND&Digest=E9KMs7S/VF2eUkjknCzqVg'>3.77</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2309&fin_year=2024-2025&district_name=KIPHIRE&state_name=NAGALAND&Digest=1UaSF+8o1ciADrntu45jOQ'>0<a></font></td>
+<td align='right'><font size='1'>1423.77</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1427.54</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2309&fin_year=2024-2025&district_name=KIPHIRE&state_name=NAGALAND&type=uskd&Digest=S4cYxrqOE8foCJrc96me0g'>471.84</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2309&fin_year=2024-2025&district_name=KIPHIRE&state_name=NAGALAND&type=matd&Digest=DsTACR/OFa6711W9uJjl5Q'>897.6</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>53.86</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2309&fin_year=2024-2025&district_name=KIPHIRE&state_name=NAGALAND&Digest=+46cJ3XSIznGjL4t2e6v1g'>53.86</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2309&fin_year=2024-2025&district_name=KIPHIRE&state_name=NAGALAND&Digest=+46cJ3XSIznGjL4t2e6v1g'>1423.29</a></font></td>
+<td align=right ><font size='1'>99.7</font></td>
+<td align=right ><font size='1'>4.25</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.56</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>64.45</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>66.01</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>8</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2310&fin_year=2024-2025&district_name=LONGLENG&state_name=NAGALAND&Digest=qi2btMvUcWibRPYmpWY4zA'>LONGLENG</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2310&fin_year=2024-2025&district_name=LONGLENG&state_name=NAGALAND&Digest=BnGpjdAG08xHFoXtPRaHFQ'>7.37</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2310&fin_year=2024-2025&district_name=LONGLENG&state_name=NAGALAND&Digest=QO2cGByAPWTRFCBz6/jXBg'>0<a></font></td>
+<td align='right'><font size='1'>1674.31</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1681.68</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2310&fin_year=2024-2025&district_name=LONGLENG&state_name=NAGALAND&type=uskd&Digest=awA85wRxhAG6ML4xihjyug'>767.32</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2310&fin_year=2024-2025&district_name=LONGLENG&state_name=NAGALAND&type=matd&Digest=TedA6UtmvzosWdRwlKowVg'>844.95</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>58.54</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2310&fin_year=2024-2025&district_name=LONGLENG&state_name=NAGALAND&Digest=SZ0CTYwYXVnBAisYJvYK3A'>58.54</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2310&fin_year=2024-2025&district_name=LONGLENG&state_name=NAGALAND&Digest=SZ0CTYwYXVnBAisYJvYK3A'>1670.81</a></font></td>
+<td align=right ><font size='1'>99.35</font></td>
+<td align=right ><font size='1'>10.87</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.48</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.48</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>9</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2311&fin_year=2024-2025&district_name=PEREN&state_name=NAGALAND&Digest=dQDz5/aL3R5Uo95k6TMIDw'>PEREN</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2311&fin_year=2024-2025&district_name=PEREN&state_name=NAGALAND&Digest=6YZNtSl9AHqCj9eJabCqbg'>37.53</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2311&fin_year=2024-2025&district_name=PEREN&state_name=NAGALAND&Digest=mV/iYTq1pmJTa9mgJJoXfg'>0<a></font></td>
+<td align='right'><font size='1'>3166.64</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>3204.18</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2311&fin_year=2024-2025&district_name=PEREN&state_name=NAGALAND&type=uskd&Digest=V9F4cSok7S+gkPm0r+N9yw'>1817.26</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2311&fin_year=2024-2025&district_name=PEREN&state_name=NAGALAND&type=matd&Digest=kZNYPnrAwNoxPfsAdh4tnw'>1270.96</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>61.53</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2311&fin_year=2024-2025&district_name=PEREN&state_name=NAGALAND&Digest=no+KgeGNhcf5c4GVi3OyXg'>61.53</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2311&fin_year=2024-2025&district_name=PEREN&state_name=NAGALAND&Digest=no+KgeGNhcf5c4GVi3OyXg'>3149.75</a></font></td>
+<td align=right ><font size='1'>98.3</font></td>
+<td align=right ><font size='1'>54.43</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.53</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>881.84</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>882.37</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>10</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2302&fin_year=2024-2025&district_name=PHEK&state_name=NAGALAND&Digest=1RxiTsnzUnzL/vVVCnwzCw'>PHEK</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2302&fin_year=2024-2025&district_name=PHEK&state_name=NAGALAND&Digest=T/pd4Io96gKJslTXQ6psgg'>-12.05</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2302&fin_year=2024-2025&district_name=PHEK&state_name=NAGALAND&Digest=B3k0gERGw+EkmiopuJCJ+g'>0<a></font></td>
+<td align='right'><font size='1'>2393.75</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>2381.7</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2302&fin_year=2024-2025&district_name=PHEK&state_name=NAGALAND&type=uskd&Digest=02LA+2c67ZumTkxAvuhZBQ'>676.11</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2302&fin_year=2024-2025&district_name=PHEK&state_name=NAGALAND&type=matd&Digest=iy8ioKQFO09DgLIwCdKlAQ'>1595.36</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>118.76</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2302&fin_year=2024-2025&district_name=PHEK&state_name=NAGALAND&Digest=sX/i5r1CwF2zS9WJo0T7mw'>118.76</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2302&fin_year=2024-2025&district_name=PHEK&state_name=NAGALAND&Digest=sX/i5r1CwF2zS9WJo0T7mw'>2390.22</a></font></td>
+<td align=right ><font size='1'>100.36</font></td>
+<td align=right ><font size='1'>-8.52</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.53</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1.53</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>11</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=2303&fin_year=2024-2025&district_name=ZUNHEBOTO&state_name=NAGALAND&Digest=pruPIDvYJtnoxtN6HMXOcw'>ZUNHEBOTO</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=2303&fin_year=2024-2025&district_name=ZUNHEBOTO&state_name=NAGALAND&Digest=dqatiozuRc5YHhNgcNv3Lg'>-8.99</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=2303&fin_year=2024-2025&district_name=ZUNHEBOTO&state_name=NAGALAND&Digest=C3WpYYAWAkn30VsSjPcl5A'>0<a></font></td>
+<td align='right'><font size='1'>2645.14</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>2636.15</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2303&fin_year=2024-2025&district_name=ZUNHEBOTO&state_name=NAGALAND&type=uskd&Digest=idieh4KVX2gqjRBmeD/99A'>1561.67</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=2303&fin_year=2024-2025&district_name=ZUNHEBOTO&state_name=NAGALAND&type=matd&Digest=M0n2cbNHSxovQAubAaPqHQ'>977.91</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>104.19</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=2303&fin_year=2024-2025&district_name=ZUNHEBOTO&state_name=NAGALAND&Digest=BLhnx9Aj9SApftLOU3kgUQ'>104.19</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=2303&fin_year=2024-2025&district_name=ZUNHEBOTO&state_name=NAGALAND&Digest=BLhnx9Aj9SApftLOU3kgUQ'>2643.78</a></font></td>
+<td align=right ><font size='1'>100.29</font></td>
+<td align=right ><font size='1'>-7.63</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>2.88</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>404.79</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>407.67</font></td>
+</tr>
+<tr style='background-color:#FF6699'>
+<td colspan='2'><font size='1' >PhaseIII Total</font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>-447.49</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>16114.93</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>15667.44</font></td>
+<td align=right ><font size='1'>7341.08</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>8185.13</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>548.68</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>548.68</font></td>
+<td align=right ><font size='1'>16074.89</font></td>
+<td align=right ><font size='1'>102.6</font></td>
+<td align=right ><font size='1'>-407.44</font></td>
+<td align=right ><font size='1'>7.03</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>1399.31</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>1406.34</font></td>
+</tr>
+<td  colspan='2' ><font size='1'>All District Total </font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>-1065.02</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>40050.66</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>38985.64</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >19688.75</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >0</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >19155.66</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>0</font></td>
+<td align=right ><font size='1' >1146.94</font></td>
+<td align=right ><font size='1' >0</font></td>
+<td align=right ><font size='1' >1146.94</font></td>
+<td align=right ><font size='1' >39991.35</font></td>
+<td align=right ><font size='1'>102.58</font></td>
+<td align=right ><font size='1'>-1005.71</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1' >10.88</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1' >0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1901.34</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1912.22</font></td>
+</tr>
+<tr style='background-color:#B1E399'><td  colspan='2' ><font size='1'>  State Fund </font></td>
+<td align=right><font size='1'></font></td>
+<td align=right><font size='1'>1296.56</font></td>
+<td align=right colspan='2'><font size='1'>808.54</font></td>
+<td align=right><font size='1'> </font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>-12629.33</font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'>371.2</font></td>
+<td align=right ><font size='1'>3.91</font></td>
+<td align=right ><font size='1'>375.11</font></td>
+<td align=right ><font size='1'>375.11</font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'>-13004.44</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+</tr>
+<tr style='background-color:#B1E399'><td  colspan='2' ><font size='1'>  Grand Total of State </font></td>
+<td align=right><font size='1'></font></td>
+<td align=right><font size='1'>231.54</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>808.54</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>40050.66</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>26356.31</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>19688.75</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>19155.66</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>0</font></td>
+<td align=right ><font size='1'>1518.14</font></td>
+<td align=right ><font size='1'>3.91</font></td>
+<td align=right ><font size='1'>1522.05</font></td>
+<td align=right ><font size='1'>40366.46</font></td>
+<td align=right ><font size='1'>151.73</font></td>
+<td align=right ><font size='1'>-14010.15</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>10.88</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1901.34</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>1912.22</font></td>
+</tr>
+</table>
+</center>
+<b><font color='Silver' >*</font><font size='1'>Status of State Fund:</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> OB of State Fund= 1296.55988</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> OB of State Fund= 1296.55988</font></b><br><b><font color='Silver' >•</font><font size='1'> Releases by Centre to State Fund in current FY= 28656.90471</b></font><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Releases by State as State share against centre release in the current FY= 4690.66</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Misc (if any)= 0</font></b><br>
+                      
+<b><font color='Silver' >•</font> <font size='1'>Total Availability at State Fund= 34644.12459</font></b><br>
+                      
+<b><font color='Silver' >•</font> <font size='1'>Refund From SEGF= 0</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Balance of State Fund= -13004.44</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Fund in Transit=Rs. 0</font></b><br>
+<font size='1'>Note: </font><br>
+<i><font size='1'><b>These Figures are Cumulatively Display.</font></i></b><br>
+<b><font size='1'>Col 3: OB=CB of last FY as per MIS</font></b><br>
+<b><font size='1'>Col 4: OB=OB entered manually in the MIS</font></b><br>
+<font color='#DC143C' size='2'><b>**<i> Payment due means MR,Bills/Vouchers that have been entered but payment date has not been entered in the MIS.</i></font></b><br>
+<center>
+Report Completed
+</br>
+					
+</center>
+</body>
+</html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Untitled Page
+</title></head>
+<body>
+    <form name="form1" method="post" action="./excelview.aspx?lflag=eng&amp;fn=E%3a%5cNrega%5cNetnrega%5cwritereaddata%2fcitizen_out%2ffundstreportMtemp_Out23_2425_.html&amp;Digest=b+Gw9praSqIjyEEdtJJylg" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="3JBWHhL1lcKGy3fSRWgDaOQNYgM129Owq4oluJ0F0wDzkinDZotUaCvkLEY7w6X59I+a8UM/zB80bPt/ivWHn7ZAgwuFyb20agB6Gc8VAM0=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Netnrega/WebResource.axd?d=OPxivriMJYeEjlxmISWZHc6x3ZOduh_4HYFeOmvGuzi1hI6Xp7XRUTkZqC7FgyA-1o-7eJGEiic6jxz1mzu9fsbJcEhhT6ahWFQejVUFUmU1&amp;t=638901734248157332" type="text/javascript"></script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="01123B89" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <div>
+    
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>

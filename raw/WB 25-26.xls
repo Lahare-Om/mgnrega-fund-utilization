@@ -1,0 +1,940 @@
+
+			
+<table border='1' width='100%' cellspacing='0' cellpadding='0' ID='Table3'>
+<tr>
+<center><h3>Financial Performance Under NREGA during the Financial Year 2025-2026   </h3></center>
+</tr>
+<tr>
+<td colspan='23' bgcolor='#00CCFF'><font  size='2'><b>State:WEST BENGAL</b></font></td>
+<td colspan='7' bgcolor='#00CCFF'> <font  size='2'><b>(Rs. in Lakhs)</b></font></td>
+</tr>
+<tr>
+<td rowspan='3' align='center'><font   size='1'>S.No</font></td>
+<td rowspan='3' align='center'><font   size='1'>District</font></td>
+<td colspan='2' align='center'><font   size='1'>Opening Balance(OB)</font></td>
+<td colspan='2' align='center'><font   size='1'>Release of<br>Last FY but<br>Received<br>during the <br>Current FY</font></td>
+<td  rowspan='3' align='left'><font   size='1'>Release from<br>State Fund<font color='#666666' size='2'>(*)</font> to<br>districts</font></td>
+<td rowspan='3' align='center'><font   size='1'>Authorisation <br>of <br>EFMS</font></td>
+<td rowspan='3' align='center'><font   size='1'>Misc Reciept</font></td>
+<td rowspan='3' align='center'><font   size='1'>Total Availabilty</font></td>
+<td colspan='8' align='center'><font   size='1'>Cumulative Expenditure</font></td>
+<td rowspan='3' align='center'><font   size='1'>%age Utilization</font></td>
+<td rowspan='3' align='center'><font   size='1'>Balance</font></td>
+<td colspan='5' align='center'><font   size='1' color='808000'><strong>Payment due</strong></font><font color='#666666'>**</font></td>
+</tr>
+<tr>
+<td rowspan='2' align='center'><font   size='1'></font></td>
+<td rowspan='2' align='center'><font   size='1'>Entered OB </font></td>
+<td rowspan='2' align='center'><font   size='1'>Centre</font></td>
+<td rowspan='2' align='center'><font   size='1'>State </font></td>
+<td colspan='4' align='center' bgcolor='#FFCC99'><font   size='1' >Actual Expenditure</font></td>
+<td colspan='3' align='center' ><font   size='1' >Adm.Exp </font></td>
+<td rowspan='2' align='center' ><font   size='1' >Total</font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Unskilled Wage </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Semi-skilled and Skilled Wage </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >On Material</font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >Tax </font></td>
+<td rowspan='2' align='center' bgcolor='#CCCC99'><font   size='1' >Total</font></td>
+</tr>
+<tr>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Unskilled Wage </font></td>
+<td align='center' bgcolor='#FFCC99'><font   size='1'>Semi-skilled and Skilled Wage</font></td>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Material </font></td>
+<td  align='center' bgcolor='#FFCC99'><font   size='1'>Tax  </font></td>
+<td align='center' ><font size='1' >Rec Exp</font></td>
+<td align='center' ><font size='1' >Non-Rec Exp  </font></td>
+<td align='center'><font size='1' >Total Adm. Exp  </font></td>
+</tr>
+<td align='center'><font size='1'>1</font></td>
+<td align='center'><font size='1'>2</font></td>
+<td align='center'><font size='1'></font></td>
+<td align='center'><font size='1'>4</font></td>
+<td align='center'><font size='1'>5</font></td>
+<td align='center'><font size='1'>6</font></td>
+<td align='center'><font size='1'>7</font></td>
+<td align='center'><font size='1'>8</font></td>
+<td align='center'><font size='1'>9</font></td>
+<td align='center'><font size='1'>14=(4+5+6+7+8+9+10+13)-(11+12)</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>16</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>17</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>18</font></td>
+<td align='center' bgcolor='#FFCC99'><font size='1'>19</font></td>
+<td align='center' ><font size='1'>20</font></td>
+<td align='center' ><font size='1'>21</font></td>
+<td align='center' ><font size='1'>22=20+21</font></td>
+<td align='center' ><font size='1'>23=16+17+18+19+22</font></td>
+<td align='center'><font size='1'>24=(23/14)*100</font></td>
+<td align='center'><font size='1'>25=14-23</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>26</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>27</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>28</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>29</font></td>
+<td align='center' bgcolor='#CCCC99'><font size='1'>30=26+27+28+29</font></td>
+</tr>
+<tr><td colspan='29'>Phase I</td>
+<tr>
+<td align=right ><font size='1'>1</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3213&fin_year=2025-2026&district_name=BANKURA&state_name=WEST+BENGAL&Digest=Weq3elZcD/i9oR7e3SqqRg'>BANKURA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3213&fin_year=2025-2026&district_name=BANKURA&state_name=WEST+BENGAL&Digest=KXdzjcjz2KSnwGRC4WRuDg'>861.9</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3213&fin_year=2025-2026&district_name=BANKURA&state_name=WEST+BENGAL&Digest=LC6abdjQERF5pxuhkPSe2A'>0<a></font></td>
+<td align='right'><font size='1'>964.12</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1826.02</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>963.65</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3213&fin_year=2025-2026&district_name=BANKURA&state_name=WEST+BENGAL&Digest=H961WygsP+AP9IBI8Ev4og'>963.65</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3213&fin_year=2025-2026&district_name=BANKURA&state_name=WEST+BENGAL&Digest=H961WygsP+AP9IBI8Ev4og'>963.65</a></font></td>
+<td align=right ><font size='1'>52.77</font></td>
+<td align=right ><font size='1'>862.37</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>2</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3203&fin_year=2025-2026&district_name=BIRBHUM&state_name=WEST+BENGAL&Digest=iVCRx4lTm9Rfau28Gx5UdA'>BIRBHUM</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3203&fin_year=2025-2026&district_name=BIRBHUM&state_name=WEST+BENGAL&Digest=3ntn15ktROQAPM9ocsF2JQ'>1473.33</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3203&fin_year=2025-2026&district_name=BIRBHUM&state_name=WEST+BENGAL&Digest=oWskHkyUnf+5iim7UrKETg'>0<a></font></td>
+<td align='right'><font size='1'>816.45</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>2289.78</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>816.45</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3203&fin_year=2025-2026&district_name=BIRBHUM&state_name=WEST+BENGAL&Digest=dl4a+LrZnMwaVAIuZzDu4A'>816.45</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3203&fin_year=2025-2026&district_name=BIRBHUM&state_name=WEST+BENGAL&Digest=dl4a+LrZnMwaVAIuZzDu4A'>816.45</a></font></td>
+<td align=right ><font size='1'>35.66</font></td>
+<td align=right ><font size='1'>1473.33</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>3</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3217&fin_year=2025-2026&district_name=DAKSHIN+DINAJPUR&state_name=WEST+BENGAL&Digest=mdzpFt+BsoBQyc650soh3Q'>DAKSHIN DINAJPUR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3217&fin_year=2025-2026&district_name=DAKSHIN+DINAJPUR&state_name=WEST+BENGAL&Digest=MnXspjMNNFJcmstbn3dUJw'>35.83</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3217&fin_year=2025-2026&district_name=DAKSHIN+DINAJPUR&state_name=WEST+BENGAL&Digest=apJvHJzTB/HyO9RTxSIQgA'>0<a></font></td>
+<td align='right'><font size='1'>329.05</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>364.88</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>329.05</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3217&fin_year=2025-2026&district_name=DAKSHIN+DINAJPUR&state_name=WEST+BENGAL&Digest=5UluiPaSe9iFjeJlRgmirA'>329.05</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3217&fin_year=2025-2026&district_name=DAKSHIN+DINAJPUR&state_name=WEST+BENGAL&Digest=5UluiPaSe9iFjeJlRgmirA'>329.05</a></font></td>
+<td align=right ><font size='1'>90.18</font></td>
+<td align=right ><font size='1'>35.83</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>4</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3207&fin_year=2025-2026&district_name=JALPAIGURI&state_name=WEST+BENGAL&Digest=FEj5iM62R/kqt3a2xwbK5Q'>JALPAIGURI</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3207&fin_year=2025-2026&district_name=JALPAIGURI&state_name=WEST+BENGAL&Digest=c7sG3wXJpMJxZhGj0QtcJQ'>-146.48</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3207&fin_year=2025-2026&district_name=JALPAIGURI&state_name=WEST+BENGAL&Digest=o4jcFxj/bIV0dqZX/dMOiw'>0<a></font></td>
+<td align='right'><font size='1'>438.52</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>292.04</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>438.52</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3207&fin_year=2025-2026&district_name=JALPAIGURI&state_name=WEST+BENGAL&Digest=gvszDaPS4i8bHBB5xeFnqA'>438.52</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3207&fin_year=2025-2026&district_name=JALPAIGURI&state_name=WEST+BENGAL&Digest=gvszDaPS4i8bHBB5xeFnqA'>438.52</a></font></td>
+<td align=right ><font size='1'>150.16</font></td>
+<td align=right ><font size='1'>-146.48</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>5</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3209&fin_year=2025-2026&district_name=MALDAH&state_name=WEST+BENGAL&Digest=CHMkz25CPUEkS2j4ZKrmmw'>MALDAH</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3209&fin_year=2025-2026&district_name=MALDAH&state_name=WEST+BENGAL&Digest=QxzuK+zyH5lTlvyyF099LQ'>748.56</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3209&fin_year=2025-2026&district_name=MALDAH&state_name=WEST+BENGAL&Digest=MNqjhwCzhGqrhGtUeGKnNg'>0<a></font></td>
+<td align='right'><font size='1'>618.26</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1366.81</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>617.21</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3209&fin_year=2025-2026&district_name=MALDAH&state_name=WEST+BENGAL&Digest=w0foCOe7EvjqfDSyGagPkA'>617.21</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3209&fin_year=2025-2026&district_name=MALDAH&state_name=WEST+BENGAL&Digest=w0foCOe7EvjqfDSyGagPkA'>617.21</a></font></td>
+<td align=right ><font size='1'>45.16</font></td>
+<td align=right ><font size='1'>749.6</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>6</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3212&fin_year=2025-2026&district_name=MURSHIDABAD&state_name=WEST+BENGAL&Digest=5B1OBWhTirzXwDWXf5aM2Q'>MURSHIDABAD</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3212&fin_year=2025-2026&district_name=MURSHIDABAD&state_name=WEST+BENGAL&Digest=z2cwoza9IlWaf0+tsntivA'>1279.17</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3212&fin_year=2025-2026&district_name=MURSHIDABAD&state_name=WEST+BENGAL&Digest=l2PifzfBdtour+AoTB6lcA'>0<a></font></td>
+<td align='right'><font size='1'>1028.28</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>2307.44</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>1027.9</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3212&fin_year=2025-2026&district_name=MURSHIDABAD&state_name=WEST+BENGAL&Digest=C2+/N1rrwLG7zUJT4ByVWA'>1027.9</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3212&fin_year=2025-2026&district_name=MURSHIDABAD&state_name=WEST+BENGAL&Digest=C2+/N1rrwLG7zUJT4ByVWA'>1027.9</a></font></td>
+<td align=right ><font size='1'>44.55</font></td>
+<td align=right ><font size='1'>1279.55</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>7</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3210&fin_year=2025-2026&district_name=PASCHIM+MEDINIPUR&state_name=WEST+BENGAL&Digest=dpV2sN2zPTszi4om3+IHlw'>PASCHIM MEDINIPUR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3210&fin_year=2025-2026&district_name=PASCHIM+MEDINIPUR&state_name=WEST+BENGAL&Digest=pGxNSoaLqnWv1iN+2xUiAw'>-37.38</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3210&fin_year=2025-2026&district_name=PASCHIM+MEDINIPUR&state_name=WEST+BENGAL&Digest=2CpmHhca1gmJxNCThjbe+A'>0<a></font></td>
+<td align='right'><font size='1'>1162.47</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1125.09</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>1162.47</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3210&fin_year=2025-2026&district_name=PASCHIM+MEDINIPUR&state_name=WEST+BENGAL&Digest=0TpVQcV4sGA5SaQKVCMs7A'>1162.47</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3210&fin_year=2025-2026&district_name=PASCHIM+MEDINIPUR&state_name=WEST+BENGAL&Digest=0TpVQcV4sGA5SaQKVCMs7A'>1162.47</a></font></td>
+<td align=right ><font size='1'>103.32</font></td>
+<td align=right ><font size='1'>-37.38</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>8</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3214&fin_year=2025-2026&district_name=PURULIA&state_name=WEST+BENGAL&Digest=0NOd/Sbz6htn63SKBClmqA'>PURULIA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3214&fin_year=2025-2026&district_name=PURULIA&state_name=WEST+BENGAL&Digest=CLhnpjB1Elca2xeeNVxoAA'>218.08</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3214&fin_year=2025-2026&district_name=PURULIA&state_name=WEST+BENGAL&Digest=IKf5nJ0TybED5aG+F7MU4Q'>0<a></font></td>
+<td align='right'><font size='1'>731.38</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>949.46</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3214&fin_year=2025-2026&district_name=PURULIA&state_name=WEST+BENGAL&type=uskd&Digest=dvCTtr1A8tPmrzrNqbGfPQ'>2.75</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>728.23</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3214&fin_year=2025-2026&district_name=PURULIA&state_name=WEST+BENGAL&Digest=q1RqwUHvrr4YA4xC8eT3cw'>728.23</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3214&fin_year=2025-2026&district_name=PURULIA&state_name=WEST+BENGAL&Digest=q1RqwUHvrr4YA4xC8eT3cw'>730.98</a></font></td>
+<td align=right ><font size='1'>76.99</font></td>
+<td align=right ><font size='1'>218.48</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>9</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3216&fin_year=2025-2026&district_name=SOUTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=2C2ujrqdbsccARVqCr4kKw'>SOUTH 24 PARGANAS</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3216&fin_year=2025-2026&district_name=SOUTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=0X1f23IKzUOJkj5qQTiPPQ'>-257.03</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3216&fin_year=2025-2026&district_name=SOUTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=VftQVuraQClgKHTtWDLlCg'>0<a></font></td>
+<td align='right'><font size='1'>1240.32</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>983.28</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>1240.32</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3216&fin_year=2025-2026&district_name=SOUTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=rq6zQDV0pPUsL7RbhCprFg'>1240.32</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3216&fin_year=2025-2026&district_name=SOUTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=rq6zQDV0pPUsL7RbhCprFg'>1240.32</a></font></td>
+<td align=right ><font size='1'>126.14</font></td>
+<td align=right ><font size='1'>-257.03</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>10</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3218&fin_year=2025-2026&district_name=UTTAR+DINAJPUR&state_name=WEST+BENGAL&Digest=6kcSYOT+1mzkjkLLuEVlnQ'>UTTAR DINAJPUR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3218&fin_year=2025-2026&district_name=UTTAR+DINAJPUR&state_name=WEST+BENGAL&Digest=C5bTzgUyB16jvLCuD5hHLQ'>-104.07</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3218&fin_year=2025-2026&district_name=UTTAR+DINAJPUR&state_name=WEST+BENGAL&Digest=LS8RA9Byp5AuAx1IictesQ'>0<a></font></td>
+<td align='right'><font size='1'>388.55</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>284.49</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>388.53</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3218&fin_year=2025-2026&district_name=UTTAR+DINAJPUR&state_name=WEST+BENGAL&Digest=R7RzyJOIFuRrXMex36k1mA'>388.53</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3218&fin_year=2025-2026&district_name=UTTAR+DINAJPUR&state_name=WEST+BENGAL&Digest=R7RzyJOIFuRrXMex36k1mA'>388.53</a></font></td>
+<td align=right ><font size='1'>136.57</font></td>
+<td align=right ><font size='1'>-104.04</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr style='background-color:#FFFF66'>
+<td colspan='2'><font size='1' >PhaseI Total</font></td>
+<td align=right><font size='1'></font></td>
+<td align=right ><font size='1'>4071.89</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>7717.4</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>11789.3</font></td>
+<td align=right><font size='1'>2.75</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>7712.33</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>7712.33</font></td>
+<td align=right ><font size='1'>7715.08</font></td>
+<td align=right ><font size='1'>65.44</font></td>
+<td align=right ><font size='1'>4074.23</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+</tr>
+<tr><td colspan='29' >Phase II</td></tr>
+<tr>
+<td align=right ><font size='1'>11</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3208&fin_year=2025-2026&district_name=COOCHBEHAR&state_name=WEST+BENGAL&Digest=FSd1Pg0/6pZhY/WmQdvJ1A'>COOCHBEHAR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3208&fin_year=2025-2026&district_name=COOCHBEHAR&state_name=WEST+BENGAL&Digest=OlD2jaapplcy9D1zMl201w'>554.42</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3208&fin_year=2025-2026&district_name=COOCHBEHAR&state_name=WEST+BENGAL&Digest=SLguZJhecFXyLKFxNzGxZg'>0<a></font></td>
+<td align='right'><font size='1'>725.46</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1279.88</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>725.43</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3208&fin_year=2025-2026&district_name=COOCHBEHAR&state_name=WEST+BENGAL&Digest=QCxKR5kTyjYXsRtQWvpQrA'>725.43</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3208&fin_year=2025-2026&district_name=COOCHBEHAR&state_name=WEST+BENGAL&Digest=QCxKR5kTyjYXsRtQWvpQrA'>725.43</a></font></td>
+<td align=right ><font size='1'>56.68</font></td>
+<td align=right ><font size='1'>554.45</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>12</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3206&fin_year=2025-2026&district_name=HOOGHLY&state_name=WEST+BENGAL&Digest=vXF0ISeJxIVkGLJZ8CDSYw'>HOOGHLY</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3206&fin_year=2025-2026&district_name=HOOGHLY&state_name=WEST+BENGAL&Digest=U+gbSIA/BFZFl01ZPVhhjA'>172.65</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3206&fin_year=2025-2026&district_name=HOOGHLY&state_name=WEST+BENGAL&Digest=rN54ixO+lPnWXWDEfGmIkQ'>0<a></font></td>
+<td align='right'><font size='1'>1064.07</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1236.72</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>1063.41</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3206&fin_year=2025-2026&district_name=HOOGHLY&state_name=WEST+BENGAL&Digest=XEpCvfhxNcw79oqf5HklfQ'>1063.41</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3206&fin_year=2025-2026&district_name=HOOGHLY&state_name=WEST+BENGAL&Digest=XEpCvfhxNcw79oqf5HklfQ'>1063.41</a></font></td>
+<td align=right ><font size='1'>85.99</font></td>
+<td align=right ><font size='1'>173.31</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>13</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3201&fin_year=2025-2026&district_name=NADIA&state_name=WEST+BENGAL&Digest=XzPftyV7egj4SRzfABuyAg'>NADIA</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3201&fin_year=2025-2026&district_name=NADIA&state_name=WEST+BENGAL&Digest=HPzD63akepe7Tbb/KuhITw'>-0.1</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3201&fin_year=2025-2026&district_name=NADIA&state_name=WEST+BENGAL&Digest=KLlfKGlo/eyVy5mXb7PNEg'>0<a></font></td>
+<td align='right'><font size='1'>874.16</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>874.06</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>873.59</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3201&fin_year=2025-2026&district_name=NADIA&state_name=WEST+BENGAL&Digest=mbZ0mvzvjennSKcIzVthfQ'>873.59</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3201&fin_year=2025-2026&district_name=NADIA&state_name=WEST+BENGAL&Digest=mbZ0mvzvjennSKcIzVthfQ'>873.59</a></font></td>
+<td align=right ><font size='1'>99.95</font></td>
+<td align=right ><font size='1'>0.47</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>14</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3215&fin_year=2025-2026&district_name=NORTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=3yQHRYyBvwdSnBDDlcPnyQ'>NORTH 24 PARGANAS</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3215&fin_year=2025-2026&district_name=NORTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=VGxV7FJqGWVY3BpEbAEeDw'>543.01</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3215&fin_year=2025-2026&district_name=NORTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=/UFwsCgIPSafS66u3vXyiw'>0<a></font></td>
+<td align='right'><font size='1'>871.35</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1414.35</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3215&fin_year=2025-2026&district_name=NORTH+24+PARGANAS&state_name=WEST+BENGAL&type=uskd&Digest=GXA/L+iiGejVjGgaadg/QA'>1.13</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>869.08</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3215&fin_year=2025-2026&district_name=NORTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=YkZ0Ds3bcszy9AGLp4qlMw'>869.08</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3215&fin_year=2025-2026&district_name=NORTH+24+PARGANAS&state_name=WEST+BENGAL&Digest=YkZ0Ds3bcszy9AGLp4qlMw'>870.21</a></font></td>
+<td align=right ><font size='1'>61.53</font></td>
+<td align=right ><font size='1'>544.15</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>15</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3202&fin_year=2025-2026&district_name=PASCHIM+BARDHAMAN&state_name=WEST+BENGAL&Digest=OQ58n3HrMcvfYz8KOehxJg'>PASCHIM BARDHAMAN</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3202&fin_year=2025-2026&district_name=PASCHIM+BARDHAMAN&state_name=WEST+BENGAL&Digest=8YICwTbkP1XKTGI20IYNOg'>-92.76</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3202&fin_year=2025-2026&district_name=PASCHIM+BARDHAMAN&state_name=WEST+BENGAL&Digest=fFm2LYuQVNCOkKimy83lQA'>0<a></font></td>
+<td align='right'><font size='1'>339.07</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>246.31</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>339.07</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3202&fin_year=2025-2026&district_name=PASCHIM+BARDHAMAN&state_name=WEST+BENGAL&Digest=f0yNq0KZRCHJxr92mytQPg'>339.07</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3202&fin_year=2025-2026&district_name=PASCHIM+BARDHAMAN&state_name=WEST+BENGAL&Digest=f0yNq0KZRCHJxr92mytQPg'>339.07</a></font></td>
+<td align=right ><font size='1'>137.66</font></td>
+<td align=right ><font size='1'>-92.76</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>16</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3211&fin_year=2025-2026&district_name=PURBA+MEDINIPUR&state_name=WEST+BENGAL&Digest=uKsehLJrYHutq14XtaMPkA'>PURBA MEDINIPUR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3211&fin_year=2025-2026&district_name=PURBA+MEDINIPUR&state_name=WEST+BENGAL&Digest=21NOoLk8Vt0XY2dT1fyUYw'>-204.45</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3211&fin_year=2025-2026&district_name=PURBA+MEDINIPUR&state_name=WEST+BENGAL&Digest=IUaZnzr9kqRzVNbJMINZbw'>0<a></font></td>
+<td align='right'><font size='1'>1183.82</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>979.37</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>1183.15</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3211&fin_year=2025-2026&district_name=PURBA+MEDINIPUR&state_name=WEST+BENGAL&Digest=80QCdw2hqbt4KlG/fBr+hg'>1183.15</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3211&fin_year=2025-2026&district_name=PURBA+MEDINIPUR&state_name=WEST+BENGAL&Digest=80QCdw2hqbt4KlG/fBr+hg'>1183.15</a></font></td>
+<td align=right ><font size='1'>120.81</font></td>
+<td align=right ><font size='1'>-203.78</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>17</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3204&fin_year=2025-2026&district_name=SILIGURI+MAHAKUMA+PARISAD&state_name=WEST+BENGAL&Digest=59J2aYgPecekP8RVlsPIcQ'>SILIGURI MAHAKUMA PARISAD</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3204&fin_year=2025-2026&district_name=SILIGURI+MAHAKUMA+PARISAD&state_name=WEST+BENGAL&Digest=47Mg3e9QI0Y8vJfWah5qpQ'>-26.67</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3204&fin_year=2025-2026&district_name=SILIGURI+MAHAKUMA+PARISAD&state_name=WEST+BENGAL&Digest=foEeuivbapoyo6LK8zUj+A'>0<a></font></td>
+<td align='right'><font size='1'>131.45</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>104.79</font></td>
+<td align=right ><font size='1'><a style='color:red' href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3204&fin_year=2025-2026&district_name=SILIGURI+MAHAKUMA+PARISAD&state_name=WEST+BENGAL&type=uskd&Digest=34oGd0VFUKS4DympAdJBtg'>3.03</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>127.9</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3204&fin_year=2025-2026&district_name=SILIGURI+MAHAKUMA+PARISAD&state_name=WEST+BENGAL&Digest=FC4IE9Y8gbOSMfPS+KqtsQ'>127.9</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3204&fin_year=2025-2026&district_name=SILIGURI+MAHAKUMA+PARISAD&state_name=WEST+BENGAL&Digest=FC4IE9Y8gbOSMfPS+KqtsQ'>130.93</a></font></td>
+<td align=right ><font size='1'>124.95</font></td>
+<td align=right ><font size='1'>-26.15</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr style='background-color:#FFCC66'>
+<td colspan='2'><font size='1' >PhaseII Total</font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>946.09</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>5189.38</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>6135.48</font></td>
+<td align=right><font size='1'>4.16</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right ><font size='1'>5181.63</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>5181.63</font></td>
+<td align=right ><font size='1'>5185.79</font></td>
+<td align=right ><font size='1'>84.52</font></td>
+<td align=right ><font size='1'>949.69</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+</tr>
+<tr><td  colspan='29'>Phase III</td></tr>
+<tr>
+<td align=right ><font size='1'>18</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3220&fin_year=2025-2026&district_name=ALIPURDUAR&state_name=WEST+BENGAL&Digest=vT1iYBARdP8Kz5hwcsMdVg'>ALIPURDUAR</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3220&fin_year=2025-2026&district_name=ALIPURDUAR&state_name=WEST+BENGAL&Digest=bcmIDAN4kvIRhu8Ss1fH6A'>-1254.62</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3220&fin_year=2025-2026&district_name=ALIPURDUAR&state_name=WEST+BENGAL&Digest=rdy1AYWQOJ8XJNZp+fk57g'>0<a></font></td>
+<td align='right'><font size='1'>382.78</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>-871.85</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/mat_detail.aspx?lflag=eng&District_code=3220&fin_year=2025-2026&district_name=ALIPURDUAR&state_name=WEST+BENGAL&type=matd&Digest=/2zT/8AQ+hSXLHJA3M3Jgw'>0.34</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3220&fin_year=2025-2026&district_name=ALIPURDUAR&state_name=WEST+BENGAL&Digest=7vuZRDwn2H9L+OSkPW1A/A'>0.34</a></font></td>
+<td align=right ><font size='1'>-0.04</font></td>
+<td align=right ><font size='1'>-872.18</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.02</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.02</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>19</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3219&fin_year=2025-2026&district_name=GORKHALAND+TERRITORIAL+ADMINISTRATION+(GTA)&state_name=WEST+BENGAL&Digest=oAc4SwXk+6E47Vw2IKuXdg'>GORKHALAND TERRITORIAL ADMINISTRATION (GTA)</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3219&fin_year=2025-2026&district_name=GORKHALAND+TERRITORIAL+ADMINISTRATION+(GTA)&state_name=WEST+BENGAL&Digest=X5XrIUt0X0PLvw6/oGzO5w'>-7385.76</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3219&fin_year=2025-2026&district_name=GORKHALAND+TERRITORIAL+ADMINISTRATION+(GTA)&state_name=WEST+BENGAL&Digest=NT8vu5mAITSXRCACPxtn9g'>0<a></font></td>
+<td align='right'><font size='1'>343.47</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>-7042.29</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>343.47</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3219&fin_year=2025-2026&district_name=GORKHALAND+TERRITORIAL+ADMINISTRATION+(GTA)&state_name=WEST+BENGAL&Digest=C/dqO9h32Z7tARyNclu9cw'>343.47</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3219&fin_year=2025-2026&district_name=GORKHALAND+TERRITORIAL+ADMINISTRATION+(GTA)&state_name=WEST+BENGAL&Digest=C/dqO9h32Z7tARyNclu9cw'>343.47</a></font></td>
+<td align=right ><font size='1'>-4.88</font></td>
+<td align=right ><font size='1'>-7385.76</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>20</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3205&fin_year=2025-2026&district_name=HOWRAH&state_name=WEST+BENGAL&Digest=DgVT8dc8bBKNHQYIIo+FyQ'>HOWRAH</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3205&fin_year=2025-2026&district_name=HOWRAH&state_name=WEST+BENGAL&Digest=RxlIQjpm25xIRTNTg64bBg'>-22.22</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3205&fin_year=2025-2026&district_name=HOWRAH&state_name=WEST+BENGAL&Digest=1otnFrF9acH06ACnSm4Uiw'>0<a></font></td>
+<td align='right'><font size='1'>418.51</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>396.28</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>417.74</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3205&fin_year=2025-2026&district_name=HOWRAH&state_name=WEST+BENGAL&Digest=KNZYZVXRnQm8EqjJDdr7Yg'>417.74</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3205&fin_year=2025-2026&district_name=HOWRAH&state_name=WEST+BENGAL&Digest=KNZYZVXRnQm8EqjJDdr7Yg'>417.74</a></font></td>
+<td align=right ><font size='1'>105.41</font></td>
+<td align=right ><font size='1'>-21.45</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>21</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3222&fin_year=2025-2026&district_name=JHARGRAM&state_name=WEST+BENGAL&Digest=dvwbENrjeobiheQaFmJZzQ'>JHARGRAM</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3222&fin_year=2025-2026&district_name=JHARGRAM&state_name=WEST+BENGAL&Digest=9CmoUocLc9nFfSwjP1gngw'>-1563.04</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3222&fin_year=2025-2026&district_name=JHARGRAM&state_name=WEST+BENGAL&Digest=MjXUUPjGWg5n58mT+nAPwQ'>0<a></font></td>
+<td align='right'><font size='1'>453.53</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>-1109.51</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3222&fin_year=2025-2026&district_name=JHARGRAM&state_name=WEST+BENGAL&Digest=V0Mexko18m4dfjtXDgpzvg'>0</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>-1109.51</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>22</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3221&fin_year=2025-2026&district_name=KALIMPONG&state_name=WEST+BENGAL&Digest=nphp0U25d2KNpZ5igsEjBw'>KALIMPONG</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3221&fin_year=2025-2026&district_name=KALIMPONG&state_name=WEST+BENGAL&Digest=cbuXLwDlAp6M2+QNTtAdng'>-3689.76</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3221&fin_year=2025-2026&district_name=KALIMPONG&state_name=WEST+BENGAL&Digest=zRnvq+hVTjjZq6tqVWkGMg'>0<a></font></td>
+<td align='right'><font size='1'>78.31</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>-3611.46</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>62.98</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/continexp.aspx?lflag=eng&District_code=3221&fin_year=2025-2026&district_name=KALIMPONG&state_name=WEST+BENGAL&Digest=9YFTnLtQz+3a0t9s+Dh9NQ'>62.98</a></font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3221&fin_year=2025-2026&district_name=KALIMPONG&state_name=WEST+BENGAL&Digest=9YFTnLtQz+3a0t9s+Dh9NQ'>62.98</a></font></td>
+<td align=right ><font size='1'>-1.74</font></td>
+<td align=right ><font size='1'>-3674.44</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr>
+<td align=right ><font size='1'>23</font></td>
+<td align=left ><font size='1'><a href='../../citizen_Html/funddisreport.aspx?flag_debited=S&lflag=eng&page=d&is_statefund=Y&district_code=3225&fin_year=2025-2026&district_name=PURBA+BARDHAMAN&state_name=WEST+BENGAL&Digest=x/EIVckxFvtSOwH/u7T/pw'>PURBA BARDHAMAN</a></font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'><a href='../../ob_report.aspx?lflag=eng&page=d&is_statefund=Y&district_code=3225&fin_year=2025-2026&district_name=PURBA+BARDHAMAN&state_name=WEST+BENGAL&Digest=Mq+ym55ZeDiEO0nm4Rb0FQ'>-5258.21</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'><a href='../../citizen_Html/dist_release.aspx?lflag=eng&page=d&district_code=3225&fin_year=2025-2026&district_name=PURBA+BARDHAMAN&state_name=WEST+BENGAL&Digest=U0cSo+lx2TAsOPUB3G0w6g'>0<a></font></td>
+<td align='right'><font size='1'>1482.46</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>-3775.75</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'><a href='../../citizen_Html/tot_exp_detail.aspx?lflag=eng&District_code=3225&fin_year=2025-2026&district_name=PURBA+BARDHAMAN&state_name=WEST+BENGAL&Digest=F7KC/cGr+aUbvPLeCJC/ug'>0</a></font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>-3775.75</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+</tr>
+<tr style='background-color:#FF6699'>
+<td colspan='2'><font size='1' >PhaseIII Total</font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>-19173.62</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>3159.06</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>-16014.56</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0.34</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>824.19</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>824.19</font></td>
+<td align=right ><font size='1'>824.53</font></td>
+<td align=right ><font size='1'>-5.15</font></td>
+<td align=right ><font size='1'>-16839.09</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0.02</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0.02</font></td>
+</tr>
+<td  colspan='2' ><font size='1'>All District Total </font></td>
+<td align=right ><font size='1'></font></td>
+<td align=right ><font size='1'>-14155.63</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>16065.85</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>1910.21</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >6.91</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >0</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1' >0.34</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>0</font></td>
+<td align=right ><font size='1' >13718.15</font></td>
+<td align=right ><font size='1' >0</font></td>
+<td align=right ><font size='1' >13718.15</font></td>
+<td align=right ><font size='1' >13725.4</font></td>
+<td align=right ><font size='1'>718.53</font></td>
+<td align=right ><font size='1'>-11815.17</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1' >0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1' >0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.02</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.02</font></td>
+</tr>
+<tr style='background-color:#B1E399'><td  colspan='2' ><font size='1'>  State Fund </font></td>
+<td align=right><font size='1'></font></td>
+<td align=right><font size='1'>3647.8</font></td>
+<td align=right colspan='2'><font size='1'>0</font></td>
+<td align=right><font size='1'> </font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align=right ><font size='1'>7761</font></td>
+<td align=right ><font size='1'>60.9</font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'>115.43</font></td>
+<td align=right ><font size='1'>0.49</font></td>
+<td align=right ><font size='1'>115.92</font></td>
+<td align=right ><font size='1'>115.92</font></td>
+<td align=right ><font size='1'> </font></td>
+<td align=right ><font size='1'>-55.02</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'> </font></td>
+</tr>
+<tr style='background-color:#B1E399'><td  colspan='2' ><font size='1'>  Grand Total of State </font></td>
+<td align=right><font size='1'></font></td>
+<td align=right><font size='1'>-10507.83</font></td>
+<td align=right ><font size='1'>0</font></td>
+<td align=right><font size='1'>0</font></td>
+<td align='right'><font size='1'>0</font></td>
+<td align='right'><font size='1'>16065.85</font></td>
+<td align=right ><font size='1'>7761</font></td>
+<td align=right ><font size='1'>1971.11</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>6.91</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>0.34</font></td>
+<td align=right bgcolor='#FFCC99'><font size='1'>0</font></td>
+<td align=right ><font size='1'>13833.58</font></td>
+<td align=right ><font size='1'>0.49</font></td>
+<td align=right ><font size='1'>13834.07</font></td>
+<td align=right ><font size='1'>13841.32</font></td>
+<td align=right ><font size='1'>696.33</font></td>
+<td align=right ><font size='1'>-11870.19</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.02</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0</font></td>
+<td align=right bgcolor='#CCCC99'><font size='1'>0.02</font></td>
+</tr>
+</table>
+</center>
+<b><font color='Silver' >*</font><font size='1'>Status of State Fund:</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> OB of State Fund= 3647.79999</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> OB of State Fund= 3647.79999</font></b><br><b><font color='Silver' >•</font><font size='1'> Releases by Centre to State Fund in current FY= </b></font><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Releases by State as State share against centre release in the current FY= 4804</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Misc (if any)= 7761</font></b><br>
+                      
+<b><font color='Silver' >•</font> <font size='1'>Total Availability at State Fund= 16212.79999</font></b><br>
+                      
+<b><font color='Silver' >•</font> <font size='1'>Refund From SEGF= 0</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Balance of State Fund= -55.02</font></b><br>
+                      
+<b><font color='Silver' >•</font><font size='1'> Fund in Transit=Rs. 0</font></b><br>
+<font size='1'>Note: </font><br>
+<i><font size='1'><b>These Figures are Cumulatively Display.</font></i></b><br>
+<b><font size='1'>Col 3: OB=CB of last FY as per MIS</font></b><br>
+<b><font size='1'>Col 4: OB=OB entered manually in the MIS</font></b><br>
+<font color='#DC143C' size='2'><b>**<i> Payment due means MR,Bills/Vouchers that have been entered but payment date has not been entered in the MIS.</i></font></b><br>
+<center>
+Report Completed
+</br>
+					
+</center>
+</body>
+</html>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Untitled Page
+</title></head>
+<body>
+    <form name="form1" method="post" action="./excelview.aspx?lflag=eng&amp;fn=E%3a%5cNrega%5cNetnrega%5cwritereaddata%2fcitizen_out%2ffundstreportMtemp_Out32_2526_.html&amp;Digest=23g+f1ojAFBJ6Rcm0NRhZA" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="v0VJv4jS1fRU6gsyVycIYrKK62B7KTa01lemJaxD9rL/TbkqwrQNpqk1Wxn7TYJfn5DSPAyGYfYWmXy5P81NpJxGhQ1F0l9JGrunu1oL1og=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Netnrega/WebResource.axd?d=OPxivriMJYeEjlxmISWZHc6x3ZOduh_4HYFeOmvGuzi1hI6Xp7XRUTkZqC7FgyA-1o-7eJGEiic6jxz1mzu9fsbJcEhhT6ahWFQejVUFUmU1&amp;t=638901734248157332" type="text/javascript"></script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="01123B89" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+</div>
+    <div>
+    
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
+</body>
+</html>
